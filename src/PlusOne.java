@@ -1,8 +1,4 @@
 public class PlusOne {
-
-    public static void main(String[] args) {
-        // :)
-    }
     public int[] plusOne(int[] digits) {
 
         int length = digits.length - 1;

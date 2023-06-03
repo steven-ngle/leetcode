@@ -1,9 +1,6 @@
 public class PalindromeNumber {
     int reversedInt = 0;
     boolean b = true;
-    public static void main(String[] args) {
-        // :)
-    }
     public boolean isPalindrome(int x) {
 
         if (x < 0) {
