@@ -1,4 +1,5 @@
 public class TwoSum {
+    // EASY
     public int[] twoSum(int[] nums, int target) {
 
         int sum = 0;

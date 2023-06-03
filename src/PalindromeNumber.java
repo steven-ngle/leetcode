@@ -1,4 +1,5 @@
 public class PalindromeNumber {
+    // EASY
     int reversedInt = 0;
     boolean b = true;
     public boolean isPalindrome(int x) {
