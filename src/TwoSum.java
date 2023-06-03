@@ -9,11 +9,11 @@ public class TwoSum {
         int[] arr = new int[2];
 
         for (int i = 0; i < nums.length; i++) {
-            for (int k = i + 1; k < nums.length; k++) {
-                sum = nums[i] + nums[k];
+            for (int n = i + 1; n < nums.length; n++) {
+                sum = nums[i] + nums[n];
                 if (sum == target) {
                     arr[0] = i;
-                    arr[1] = k;
+                    arr[1] = n;
                     return arr;
                 }
             }
