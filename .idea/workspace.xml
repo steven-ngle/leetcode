@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="SingleNumber">
-      <change afterPath="$PROJECT_DIR$/src/PowerOfTwo.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="PowerOfTwo">
+      <change afterPath="$PROJECT_DIR$/src/MajorityElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690048606948</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="PowerOfTwo">
+      <created>1690054463091</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1690054463091</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +206,7 @@
     <MESSAGE value="commit beginning" />
     <MESSAGE value="commit" />
     <MESSAGE value="SingleNumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="SingleNumber" />
+    <MESSAGE value="PowerOfTwo" />
+    <option name="LAST_COMMIT_MESSAGE" value="PowerOfTwo" />
   </component>
 </project>
