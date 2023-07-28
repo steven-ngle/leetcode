@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="ConcatenationOfArray">
-      <change afterPath="$PROJECT_DIR$/src/ConvertTheTemperature.java" afterDir="false" />
-    </list>
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="ConvertTheTemperature" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -208,7 +206,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690131285948</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="ConvertTheTemperature">
+      <created>1690308161802</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1690308161802</updated>
+    </task>
+    <task id="LOCAL-00024" summary="ConvertTheTemperature">
+      <created>1690308356370</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1690308356370</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,6 +241,7 @@
     <MESSAGE value="MajorityElement" />
     <MESSAGE value="PowerOfTwo" />
     <MESSAGE value="ConcatenationOfArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="ConcatenationOfArray" />
+    <MESSAGE value="ConvertTheTemperature" />
+    <option name="LAST_COMMIT_MESSAGE" value="ConvertTheTemperature" />
   </component>
 </project>
