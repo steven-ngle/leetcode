@@ -1,3 +1,5 @@
+package easy;
+
 public class ConcatenationOfArray {
     // EASY
     public int[] getConcatenation(int[] nums) {

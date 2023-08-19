@@ -1,3 +1,5 @@
+package easy;
+
 public class ThirdMaximumNumber {
     // EASY
     public int thirdMax(int[] nums) {

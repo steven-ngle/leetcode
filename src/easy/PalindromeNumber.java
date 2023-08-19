@@ -1,3 +1,5 @@
+package easy;
+
 public class PalindromeNumber {
     // EASY
     int reversedInt = 0;

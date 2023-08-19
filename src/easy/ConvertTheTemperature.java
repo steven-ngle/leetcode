@@ -1,3 +1,5 @@
+package easy;
+
 public class ConvertTheTemperature {
     // EASY
     public double[] convertTemperature(double celsius) {

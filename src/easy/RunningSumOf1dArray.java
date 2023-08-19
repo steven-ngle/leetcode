@@ -1,3 +1,5 @@
+package easy;
+
 public class RunningSumOf1dArray {
     // EASY
     public int[] runningSum(int[] nums) {
