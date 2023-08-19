@@ -3,7 +3,7 @@ package easy;
 import java.util.Arrays;
 
 public class SingleNumber {
-    // EASY
+
     public int singleNumber(int[] nums) {
 
         Arrays.sort(nums);

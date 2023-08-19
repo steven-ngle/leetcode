@@ -1,7 +1,7 @@
 package easy;
 
 public class FinalValueOfVariableAfterPerformingOperations {
-    //EASY
+
     public int finalValueAfterOperations(String[] operations) {
 
         int x = 0;

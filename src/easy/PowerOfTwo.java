@@ -1,7 +1,7 @@
 package easy;
 
 public class PowerOfTwo {
-    // EASY
+
     public boolean isPowerOfTwo(int n) {
 
         boolean b = false;

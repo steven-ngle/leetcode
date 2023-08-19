@@ -1,7 +1,7 @@
 package easy;
 
 public class BestTimeToBuyAndSellStock {
-    // EASY
+
     public int maxProfit(int[] prices) {
 
         int min = 10000;

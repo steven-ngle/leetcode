@@ -1,7 +1,7 @@
 package easy;
 
 public class PowerOfThree {
-    // EASY
+
     public boolean isPowerOfThree(int n) {
 
         if (n == 0) {

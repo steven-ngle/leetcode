@@ -1,7 +1,7 @@
 package easy;
 
 public class ConcatenationOfArray {
-    // EASY
+
     public int[] getConcatenation(int[] nums) {
 
         int[] arr = new int[2 * nums.length];

@@ -3,7 +3,7 @@ package easy;
 import java.util.Arrays;
 
 public class NeitherMinimumNorMaximum {
-    // EASY
+
     public int findNonMinOrMax(int[] nums) {
 
         int m = nums.length;

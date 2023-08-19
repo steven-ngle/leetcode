@@ -1,7 +1,7 @@
 package easy;
 
 public class SubtractTheProductAndSumOfDigitsOfAnInteger {
-    // EASY
+
     public int subtractProductAndSum(int n) {
 
         int prod  = 1;

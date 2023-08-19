@@ -3,7 +3,6 @@ package easy;
 import java.util.Arrays;
 
 public class ContainsDuplicate {
-    // EASY
 
 /*    public boolean containsDuplicate(int[] nums) {
 
