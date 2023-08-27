@@ -4,28 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/easy/HowManyNumbersAreSmallerThanTheCurrentNumber.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="MakeArrayZeroBySubtractingEqualAmounts">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/AddTwoIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/AddTwoIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/BestTimeToBuyAndSellStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/ConcatenationOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/ConcatenationOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/ContainsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/ContainsDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/ConvertTheTemperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/ConvertTheTemperature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/FinalValueOfVariableAfterPerformingOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/FinalValueOfVariableAfterPerformingOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/KidsWithTheGreatestNumberOfCandies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/KidsWithTheGreatestNumberOfCandies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/MajorityElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/NeitherMinimumNorMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/NeitherMinimumNorMaximum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/NumberOfEmployeesWhoMetTheTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/NumberOfEmployeesWhoMetTheTarget.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/PalindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/PlusOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/PowerOfThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/PowerOfThree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/PowerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/PowerOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/RunningSumOf1dArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/RunningSumOf1dArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/SingleNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/SubtractTheProductAndSumOfDigitsOfAnInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/SubtractTheProductAndSumOfDigitsOfAnInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/ThirdMaximumNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/ThirdMaximumNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,13 +118,22 @@
       <option name="project" value="LOCAL" />
       <updated>1692431585422</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="MakeArrayZeroBySubtractingEqualAmounts">
+      <option name="closed" value="true" />
+      <created>1692907705975</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1692907705975</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="NumberOfEmployeesWhoMetTheTarget" />
     <MESSAGE value="KidsWithTheGreatestNumberOfCandies" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="MakeArrayZeroBySubtractingEqualAmounts" />
+    <option name="LAST_COMMIT_MESSAGE" value="MakeArrayZeroBySubtractingEqualAmounts" />
   </component>
 </project>
