@@ -6,3 +6,4 @@ public class ToLowerCase {
         return s.toLowerCase();
     }
 }
+
