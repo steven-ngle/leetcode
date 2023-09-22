@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="SumMultiples" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="MaximumProductOfTwoElementsInAnArray">
+      <change afterPath="$PROJECT_DIR$/src/easy/SortThePeople.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -276,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695408338087</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="MaximumProductOfTwoElementsInAnArray">
+      <created>1695410123191</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1695410123191</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -305,6 +314,7 @@
     <MESSAGE value="Updated TwoSum" />
     <MESSAGE value="ShuffleTheArray" />
     <MESSAGE value="SumMultiples" />
-    <option name="LAST_COMMIT_MESSAGE" value="SumMultiples" />
+    <MESSAGE value="MaximumProductOfTwoElementsInAnArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="MaximumProductOfTwoElementsInAnArray" />
   </component>
 </project>
