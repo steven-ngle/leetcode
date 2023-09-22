@@ -38,7 +38,7 @@ public class ValidParentheses {
         map.put('{', '}');
 
         for (char c : s.toCharArray()) {
-            if (map.containsKey(c)) { // es wird geschaut, ob die Map den char c hat
+            if (map.containsKey(c)) { // es wird geschaut, ob die Map den Schlüssel von char c hat
                 stack.push(map.get(c)); // wenn ja, dann leg den Wert von c auf den Stack
             }
             else if (stack.empty() || stack.pop() != c) { // oberstes Element des Stacks wird entfernt
