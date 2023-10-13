@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="MoveZeroes">
-      <change afterPath="$PROJECT_DIR$/src/easy/NumberOfGoodPairs.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="NumberOfGoodPairs">
+      <change afterPath="$PROJECT_DIR$/src/easy/SmallestEvenMultiple.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -255,7 +255,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697032150837</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="NumberOfGoodPairs">
+      <option name="closed" value="true" />
+      <created>1697215027953</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1697215027953</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -280,6 +288,7 @@
     <MESSAGE value="NeitherMinimumNorMaximum" />
     <MESSAGE value="ToLowerCase" />
     <MESSAGE value="MoveZeroes" />
-    <option name="LAST_COMMIT_MESSAGE" value="MoveZeroes" />
+    <MESSAGE value="NumberOfGoodPairs" />
+    <option name="LAST_COMMIT_MESSAGE" value="NumberOfGoodPairs" />
   </component>
 </project>
