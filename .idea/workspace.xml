@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="DetermineIfStringHalvesAreAlike">
-      <change afterPath="$PROJECT_DIR$/src/easy/FindTheIndexOfTheFirstOccurrenceInAString.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="FindTheIndexOfTheFirstOccurrenceInAString">
+      <change afterPath="$PROJECT_DIR$/src/easy/ValidAnagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -335,7 +335,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697896843886</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="FindTheIndexOfTheFirstOccurrenceInAString">
+      <option name="closed" value="true" />
+      <created>1697908336589</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1697908336589</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -368,6 +376,7 @@
     <MESSAGE value="AddDigits" />
     <MESSAGE value="NumberOfSegmentsInAString" />
     <MESSAGE value="DetermineIfStringHalvesAreAlike" />
-    <option name="LAST_COMMIT_MESSAGE" value="DetermineIfStringHalvesAreAlike" />
+    <MESSAGE value="FindTheIndexOfTheFirstOccurrenceInAString" />
+    <option name="LAST_COMMIT_MESSAGE" value="FindTheIndexOfTheFirstOccurrenceInAString" />
   </component>
 </project>
