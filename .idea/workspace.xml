@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="StudentAttendanceRecord1">
-      <change afterPath="$PROJECT_DIR$/src/easy/CountEqualAndDivisiblePairsInAnArray.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="CountEqualAndDivisiblePairsInAnArray">
+      <change afterPath="$PROJECT_DIR$/src/easy/FindTheHighestAltitude.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -359,7 +359,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697974368590</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="CountEqualAndDivisiblePairsInAnArray">
+      <option name="closed" value="true" />
+      <created>1697976357475</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1697976357475</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -395,6 +403,7 @@
     <MESSAGE value="FindTheIndexOfTheFirstOccurrenceInAString" />
     <MESSAGE value="ValidAnagram" />
     <MESSAGE value="StudentAttendanceRecord1" />
-    <option name="LAST_COMMIT_MESSAGE" value="StudentAttendanceRecord1" />
+    <MESSAGE value="CountEqualAndDivisiblePairsInAnArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="CountEqualAndDivisiblePairsInAnArray" />
   </component>
 </project>
