@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="ArrangingCoins">
-      <change afterPath="$PROJECT_DIR$/src/easy/MaxConsecutiveOnes.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="MaxConsecutiveOnes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -417,7 +416,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698413559665</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="MaxConsecutiveOnes">
+      <option name="closed" value="true" />
+      <created>1698414486998</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1698414486998</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -456,6 +463,7 @@
     <MESSAGE value="CountEqualAndDivisiblePairsInAnArray" />
     <MESSAGE value="FindTheHighestAltitude" />
     <MESSAGE value="ArrangingCoins" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrangingCoins" />
+    <MESSAGE value="MaxConsecutiveOnes" />
+    <option name="LAST_COMMIT_MESSAGE" value="MaxConsecutiveOnes" />
   </component>
 </project>
