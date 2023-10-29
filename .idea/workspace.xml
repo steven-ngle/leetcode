@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="RichestCustomerWealth">
-      <change afterPath="$PROJECT_DIR$/src/easy/DivisibleAndNonDivisbleSumsDifference.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="DivisibleAndNonDivisbleSumsDifference">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -448,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698421275531</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="DivisibleAndNonDivisbleSumsDifference">
+      <option name="closed" value="true" />
+      <created>1698421698546</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1698421698546</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -463,7 +471,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="PowerOfTwo" />
     <MESSAGE value="ConcatenationOfArray" />
     <MESSAGE value="ConvertTheTemperature" />
     <MESSAGE value="commit" />
@@ -488,6 +495,7 @@
     <MESSAGE value="FindTheMaximumAchievableNumber" />
     <MESSAGE value="JewelsAndStones" />
     <MESSAGE value="RichestCustomerWealth" />
-    <option name="LAST_COMMIT_MESSAGE" value="RichestCustomerWealth" />
+    <MESSAGE value="DivisibleAndNonDivisbleSumsDifference" />
+    <option name="LAST_COMMIT_MESSAGE" value="DivisibleAndNonDivisbleSumsDifference" />
   </component>
 </project>
