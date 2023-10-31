@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="MaximumNumberOfBalloons">
-      <change afterPath="$PROJECT_DIR$/src/easy/RotateString.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="RotateString">
+      <change afterPath="$PROJECT_DIR$/src/easy/SquaresOfASortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -281,14 +281,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00029" summary="NumberOfGoodPairs">
-      <option name="closed" value="true" />
-      <created>1697215027953</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1697215027953</updated>
-    </task>
     <task id="LOCAL-00030" summary="SmallestEvenMultiple">
       <option name="closed" value="true" />
       <created>1697215484328</created>
@@ -457,7 +449,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698592293007</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="RotateString">
+      <option name="closed" value="true" />
+      <created>1698593933895</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1698593933895</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,7 +472,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ConvertTheTemperature" />
     <MESSAGE value="commit" />
     <MESSAGE value="NeitherMinimumNorMaximum" />
     <MESSAGE value="ToLowerCase" />
@@ -497,6 +496,7 @@
     <MESSAGE value="RichestCustomerWealth" />
     <MESSAGE value="DivisibleAndNonDivisbleSumsDifference" />
     <MESSAGE value="MaximumNumberOfBalloons" />
-    <option name="LAST_COMMIT_MESSAGE" value="MaximumNumberOfBalloons" />
+    <MESSAGE value="RotateString" />
+    <option name="LAST_COMMIT_MESSAGE" value="RotateString" />
   </component>
 </project>
