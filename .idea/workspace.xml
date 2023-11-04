@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="2.11.23">
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="AverageSalaryExcludingTheMinimumAndMaximumSalary">
+      <change afterPath="$PROJECT_DIR$/src/easy/LastStoneWeight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/MinimumSumOfFourDigitNumberAfterSplittingDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/MinimumSumOfFourDigitNumberAfterSplittingDigits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,22 +281,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00031" summary="rename">
-      <option name="closed" value="true" />
-      <created>1697323003221</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1697323003221</updated>
-    </task>
-    <task id="LOCAL-00032" summary="tbd">
-      <option name="closed" value="true" />
-      <created>1697323232011</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1697323232011</updated>
-    </task>
     <task id="LOCAL-00033" summary="rename">
       <option name="closed" value="true" />
       <created>1697323284990</created>
@@ -457,7 +441,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698754345916</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="MinimumSumOfFourDigitNumberAfterSplittingDigits">
+      <option name="closed" value="true" />
+      <created>1699135720226</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1699135720226</updated>
+    </task>
+    <task id="LOCAL-00054" summary="AverageSalaryExcludingTheMinimumAndMaximumSalary">
+      <option name="closed" value="true" />
+      <created>1699136072668</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1699136072668</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,8 +472,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="NeitherMinimumNorMaximum" />
-    <MESSAGE value="ToLowerCase" />
     <MESSAGE value="MoveZeroes" />
     <MESSAGE value="NumberOfGoodPairs" />
     <MESSAGE value="SmallestEvenMultiple" />
@@ -497,6 +495,8 @@
     <MESSAGE value="MaximumNumberOfBalloons" />
     <MESSAGE value="RotateString" />
     <MESSAGE value="SquaresOfASortedArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="SquaresOfASortedArray" />
+    <MESSAGE value="MinimumSumOfFourDigitNumberAfterSplittingDigits" />
+    <MESSAGE value="AverageSalaryExcludingTheMinimumAndMaximumSalary" />
+    <option name="LAST_COMMIT_MESSAGE" value="AverageSalaryExcludingTheMinimumAndMaximumSalary" />
   </component>
 </project>
