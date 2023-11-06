@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="FibonacciNumber">
-      <change afterPath="$PROJECT_DIR$/src/easy/ValidPalindrome.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="ValidPalindrome">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -281,14 +280,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00039" summary="FindTheIndexOfTheFirstOccurrenceInAString">
-      <option name="closed" value="true" />
-      <created>1697908336589</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1697908336589</updated>
-    </task>
     <task id="LOCAL-00040" summary="ValidAnagram">
       <option name="closed" value="true" />
       <created>1697910508771</created>
@@ -457,7 +448,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699172384245</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="ValidPalindrome">
+      <option name="closed" value="true" />
+      <created>1699175651415</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1699175651415</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,7 +471,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SearchInsertPosition" />
     <MESSAGE value="AddDigits" />
     <MESSAGE value="NumberOfSegmentsInAString" />
     <MESSAGE value="DetermineIfStringHalvesAreAlike" />
@@ -497,6 +495,7 @@
     <MESSAGE value="LargestNumberAtLeastTwiceOfOthers" />
     <MESSAGE value="ClasseMoreThan5Students" />
     <MESSAGE value="FibonacciNumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="FibonacciNumber" />
+    <MESSAGE value="ValidPalindrome" />
+    <option name="LAST_COMMIT_MESSAGE" value="ValidPalindrome" />
   </component>
 </project>
