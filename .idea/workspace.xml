@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="FindAllNumbersDisappearedInAnArray">
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="10.11.23">
+      <change afterPath="$PROJECT_DIR$/src/easy/FirstUniqueCharacterInAString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,13 +91,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680197353294</updated>
-    </task>
-    <task id="LOCAL-00002" summary="commit">
-      <created>1680199988221</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1680199988221</updated>
     </task>
     <task id="LOCAL-00003" summary="commit">
       <created>1680298551962</created>
@@ -455,7 +449,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699092919806</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="10.11.23">
+      <created>1699642664737</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1699642664737</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -470,7 +471,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ConvertTheTemperature" />
     <MESSAGE value="commit" />
     <MESSAGE value="NeitherMinimumNorMaximum" />
     <MESSAGE value="ToLowerCase" />
@@ -495,6 +495,7 @@
     <MESSAGE value="RichestCustomerWealth" />
     <MESSAGE value="DifferenceBetweenElementSumAndDigitSumOfAnArray" />
     <MESSAGE value="FindAllNumbersDisappearedInAnArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="FindAllNumbersDisappearedInAnArray" />
+    <MESSAGE value="10.11.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.11.23" />
   </component>
 </project>
