@@ -20,7 +20,7 @@ public class ValidAnagram {
             if (!hm.containsKey(c) || hm.get(c) == 0) {
                 return false;
             }
-            hm.put(c,hm.get(c) - 1);
+            hm.put(c, hm.get(c) - 1);
         }
 
         return true;
