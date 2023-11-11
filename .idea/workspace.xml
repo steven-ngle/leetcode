@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="10.11.23">
-      <change afterPath="$PROJECT_DIR$/src/easy/FirstUniqueCharacterInAString.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="8.11.23">
+      <change afterPath="$PROJECT_DIR$/src/easy/FindTheDifference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_11_23__16_16__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,6 +92,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680197353294</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1680199191425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680199191425</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1680199988221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680199988221</updated>
     </task>
     <task id="LOCAL-00003" summary="commit">
       <created>1680298551962</created>
@@ -267,110 +282,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00028" summary="MoveZeroes">
-      <option name="closed" value="true" />
-      <created>1697032150837</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1697032150837</updated>
-    </task>
-    <task id="LOCAL-00029" summary="NumberOfGoodPairs">
-      <option name="closed" value="true" />
-      <created>1697215027953</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1697215027953</updated>
-    </task>
-    <task id="LOCAL-00030" summary="SmallestEvenMultiple">
-      <option name="closed" value="true" />
-      <created>1697215484328</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1697215484328</updated>
-    </task>
-    <task id="LOCAL-00031" summary="rename">
-      <option name="closed" value="true" />
-      <created>1697323003221</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1697323003221</updated>
-    </task>
-    <task id="LOCAL-00032" summary="tbd">
-      <option name="closed" value="true" />
-      <created>1697323232011</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1697323232011</updated>
-    </task>
-    <task id="LOCAL-00033" summary="rename">
-      <option name="closed" value="true" />
-      <created>1697323284990</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1697323284990</updated>
-    </task>
-    <task id="LOCAL-00034" summary="tbd">
-      <option name="closed" value="true" />
-      <created>1697323650947</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1697323650947</updated>
-    </task>
-    <task id="LOCAL-00035" summary="SearchInsertPosition">
-      <option name="closed" value="true" />
-      <created>1697892117493</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1697892117493</updated>
-    </task>
-    <task id="LOCAL-00036" summary="AddDigits">
-      <option name="closed" value="true" />
-      <created>1697893033645</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1697893033645</updated>
-    </task>
-    <task id="LOCAL-00037" summary="NumberOfSegmentsInAString">
-      <option name="closed" value="true" />
-      <created>1697894520442</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1697894520442</updated>
-    </task>
-    <task id="LOCAL-00038" summary="DetermineIfStringHalvesAreAlike">
-      <option name="closed" value="true" />
-      <created>1697896843886</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1697896843886</updated>
-    </task>
-    <task id="LOCAL-00039" summary="FindTheIndexOfTheFirstOccurrenceInAString">
-      <option name="closed" value="true" />
-      <created>1697908336589</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1697908336589</updated>
-    </task>
-    <task id="LOCAL-00040" summary="ValidAnagram">
-      <option name="closed" value="true" />
-      <created>1697910508771</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1697910508771</updated>
-    </task>
     <task id="LOCAL-00041" summary="StudentAttendanceRecord1">
       <option name="closed" value="true" />
       <created>1697974368590</created>
@@ -435,28 +346,119 @@
       <option name="project" value="LOCAL" />
       <updated>1698421275531</updated>
     </task>
-    <task id="LOCAL-00049" summary="DifferenceBetweenElementSumAndDigitSumOfAnArray">
-      <created>1699024718830</created>
+    <task id="LOCAL-00049" summary="DivisibleAndNonDivisbleSumsDifference">
+      <option name="closed" value="true" />
+      <created>1698421698546</created>
       <option name="number" value="00049" />
       <option name="presentableId" value="LOCAL-00049" />
       <option name="project" value="LOCAL" />
-      <updated>1699024718830</updated>
+      <updated>1698421698546</updated>
     </task>
-    <task id="LOCAL-00050" summary="FindAllNumbersDisappearedInAnArray">
-      <created>1699092919805</created>
+    <task id="LOCAL-00050" summary="MaximumNumberOfBalloons">
+      <option name="closed" value="true" />
+      <created>1698592293007</created>
       <option name="number" value="00050" />
       <option name="presentableId" value="LOCAL-00050" />
       <option name="project" value="LOCAL" />
-      <updated>1699092919806</updated>
+      <updated>1698592293007</updated>
     </task>
-    <task id="LOCAL-00051" summary="10.11.23">
-      <created>1699642664737</created>
+    <task id="LOCAL-00051" summary="RotateString">
+      <option name="closed" value="true" />
+      <created>1698593933895</created>
       <option name="number" value="00051" />
       <option name="presentableId" value="LOCAL-00051" />
       <option name="project" value="LOCAL" />
-      <updated>1699642664737</updated>
+      <updated>1698593933895</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="SquaresOfASortedArray">
+      <option name="closed" value="true" />
+      <created>1698754345916</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1698754345916</updated>
+    </task>
+    <task id="LOCAL-00053" summary="MinimumSumOfFourDigitNumberAfterSplittingDigits">
+      <option name="closed" value="true" />
+      <created>1699135720226</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1699135720226</updated>
+    </task>
+    <task id="LOCAL-00054" summary="AverageSalaryExcludingTheMinimumAndMaximumSalary">
+      <option name="closed" value="true" />
+      <created>1699136072668</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1699136072668</updated>
+    </task>
+    <task id="LOCAL-00055" summary="LastStoneWeight">
+      <option name="closed" value="true" />
+      <created>1699138975312</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1699138975312</updated>
+    </task>
+    <task id="LOCAL-00056" summary="SortArrayByParityII">
+      <option name="closed" value="true" />
+      <created>1699139700152</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1699139700152</updated>
+    </task>
+    <task id="LOCAL-00057" summary="LargestNumberAtLeastTwiceOfOthers">
+      <option name="closed" value="true" />
+      <created>1699170371935</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1699170371935</updated>
+    </task>
+    <task id="LOCAL-00058" summary="LargestNumberAtLeastTwiceOfOthers">
+      <option name="closed" value="true" />
+      <created>1699170446027</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1699170446027</updated>
+    </task>
+    <task id="LOCAL-00059" summary="ClasseMoreThan5Students">
+      <option name="closed" value="true" />
+      <created>1699171110882</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1699171110882</updated>
+    </task>
+    <task id="LOCAL-00060" summary="FibonacciNumber">
+      <option name="closed" value="true" />
+      <created>1699172384245</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1699172384245</updated>
+    </task>
+    <task id="LOCAL-00061" summary="ValidPalindrome">
+      <option name="closed" value="true" />
+      <created>1699175651415</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1699175651415</updated>
+    </task>
+    <task id="LOCAL-00062" summary="8.11.23">
+      <option name="closed" value="true" />
+      <created>1699470994982</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1699470994982</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -471,16 +473,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit" />
-    <MESSAGE value="NeitherMinimumNorMaximum" />
-    <MESSAGE value="ToLowerCase" />
-    <MESSAGE value="MoveZeroes" />
-    <MESSAGE value="NumberOfGoodPairs" />
-    <MESSAGE value="SmallestEvenMultiple" />
-    <MESSAGE value="rename" />
-    <MESSAGE value="tbd" />
-    <MESSAGE value="SearchInsertPosition" />
-    <MESSAGE value="AddDigits" />
     <MESSAGE value="NumberOfSegmentsInAString" />
     <MESSAGE value="DetermineIfStringHalvesAreAlike" />
     <MESSAGE value="FindTheIndexOfTheFirstOccurrenceInAString" />
@@ -493,9 +485,19 @@
     <MESSAGE value="FindTheMaximumAchievableNumber" />
     <MESSAGE value="JewelsAndStones" />
     <MESSAGE value="RichestCustomerWealth" />
-    <MESSAGE value="DifferenceBetweenElementSumAndDigitSumOfAnArray" />
-    <MESSAGE value="FindAllNumbersDisappearedInAnArray" />
-    <MESSAGE value="10.11.23" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.11.23" />
+    <MESSAGE value="DivisibleAndNonDivisbleSumsDifference" />
+    <MESSAGE value="MaximumNumberOfBalloons" />
+    <MESSAGE value="RotateString" />
+    <MESSAGE value="SquaresOfASortedArray" />
+    <MESSAGE value="MinimumSumOfFourDigitNumberAfterSplittingDigits" />
+    <MESSAGE value="AverageSalaryExcludingTheMinimumAndMaximumSalary" />
+    <MESSAGE value="LastStoneWeight" />
+    <MESSAGE value="SortArrayByParityII" />
+    <MESSAGE value="LargestNumberAtLeastTwiceOfOthers" />
+    <MESSAGE value="ClasseMoreThan5Students" />
+    <MESSAGE value="FibonacciNumber" />
+    <MESSAGE value="ValidPalindrome" />
+    <MESSAGE value="8.11.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.11.23" />
   </component>
 </project>
