@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="GreatestCommonDivisorOfStrings">
-      <change afterPath="$PROJECT_DIR$/src/easy/ReverseVowelsOfAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/ConvertAnArrayIntoA2DArrayWithConditions.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="13.11.23">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/SingleNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +26,20 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "steven-ngle"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="ae640a7d-2962-42f8-a497-68866002c1c5" />
+        <option name="url" value="https://github.com/steven-ngle/leetcodeSolutions.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -283,14 +294,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00044" summary="ArrangingCoins">
-      <option name="closed" value="true" />
-      <created>1698413559665</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1698413559665</updated>
-    </task>
     <task id="LOCAL-00045" summary="MaxConsecutiveOnes">
       <option name="closed" value="true" />
       <created>1698414486998</created>
@@ -459,7 +462,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699808843503</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="13.11.23">
+      <option name="closed" value="true" />
+      <created>1699899858525</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1699899858526</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -474,7 +485,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ValidAnagram" />
     <MESSAGE value="StudentAttendanceRecord1" />
     <MESSAGE value="CountEqualAndDivisiblePairsInAnArray" />
     <MESSAGE value="FindTheHighestAltitude" />
@@ -499,6 +509,7 @@
     <MESSAGE value="FindTheDifference" />
     <MESSAGE value="MergeStringsAlternately" />
     <MESSAGE value="GreatestCommonDivisorOfStrings" />
-    <option name="LAST_COMMIT_MESSAGE" value="GreatestCommonDivisorOfStrings" />
+    <MESSAGE value="13.11.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="13.11.23" />
   </component>
 </project>
