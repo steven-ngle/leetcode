@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="13.11.23">
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="15.11.23">
+      <change afterPath="$PROJECT_DIR$/src/easy/CanPlaceFlowers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,12 +28,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "steven-ngle"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;steven-ngle&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -59,7 +60,8 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RunManager" selected="Application.MaxConsecutiveOnes">
@@ -294,14 +296,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00045" summary="MaxConsecutiveOnes">
-      <option name="closed" value="true" />
-      <created>1698414486998</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1698414486998</updated>
-    </task>
     <task id="LOCAL-00046" summary="FindTheMaximumAchievableNumber">
       <option name="closed" value="true" />
       <created>1698419629808</created>
@@ -470,7 +464,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699899858526</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="15.11.23">
+      <option name="closed" value="true" />
+      <created>1700064471072</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1700064471072</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -485,7 +487,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="StudentAttendanceRecord1" />
     <MESSAGE value="CountEqualAndDivisiblePairsInAnArray" />
     <MESSAGE value="FindTheHighestAltitude" />
     <MESSAGE value="ArrangingCoins" />
@@ -510,6 +511,7 @@
     <MESSAGE value="MergeStringsAlternately" />
     <MESSAGE value="GreatestCommonDivisorOfStrings" />
     <MESSAGE value="13.11.23" />
-    <option name="LAST_COMMIT_MESSAGE" value="13.11.23" />
+    <MESSAGE value="15.11.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="15.11.23" />
   </component>
 </project>
