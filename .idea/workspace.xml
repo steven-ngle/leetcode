@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="MaximumAverageSubarrayI" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="sql">
+      <change afterPath="$PROJECT_DIR$/src/medium/RemovingStarsFromAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -335,14 +338,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00054" summary="AverageSalaryExcludingTheMinimumAndMaximumSalary">
-      <option name="closed" value="true" />
-      <created>1699136072668</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1699136072668</updated>
-    </task>
     <task id="LOCAL-00055" summary="LastStoneWeight">
       <option name="closed" value="true" />
       <created>1699138975312</created>
@@ -511,7 +506,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701019443310</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="sql">
+      <option name="closed" value="true" />
+      <created>1701107716232</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1701107716232</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -526,7 +529,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MaximumNumberOfBalloons" />
     <MESSAGE value="RotateString" />
     <MESSAGE value="SquaresOfASortedArray" />
     <MESSAGE value="MinimumSumOfFourDigitNumberAfterSplittingDigits" />
@@ -551,7 +553,8 @@
     <MESSAGE value="ReverseWordsInAString" />
     <MESSAGE value="FindPivotIndex" />
     <MESSAGE value="MaximumAverageSubarrayI" />
-    <option name="LAST_COMMIT_MESSAGE" value="MaximumAverageSubarrayI" />
+    <MESSAGE value="sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="sql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
