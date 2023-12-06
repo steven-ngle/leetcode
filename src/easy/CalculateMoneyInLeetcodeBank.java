@@ -21,7 +21,6 @@ public class CalculateMoneyInLeetcodeBank {
             n--;
         }
 
-
         return sum;
     }
 }
