@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="sql" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="CalculateMoneyInLeetcodeBank">
+      <change beforePath="$PROJECT_DIR$/src/medium/IncreasingTripletSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/IncreasingTripletSubsequence.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -335,22 +337,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00057" summary="LargestNumberAtLeastTwiceOfOthers">
-      <option name="closed" value="true" />
-      <created>1699170371935</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1699170371935</updated>
-    </task>
-    <task id="LOCAL-00058" summary="LargestNumberAtLeastTwiceOfOthers">
-      <option name="closed" value="true" />
-      <created>1699170446027</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1699170446027</updated>
-    </task>
     <task id="LOCAL-00059" summary="ClasseMoreThan5Students">
       <option name="closed" value="true" />
       <created>1699171110882</created>
@@ -511,7 +497,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701366959998</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="CalculateMoneyInLeetcodeBank">
+      <option name="closed" value="true" />
+      <created>1701880814411</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1701880814412</updated>
+    </task>
+    <task id="LOCAL-00080" summary="CalculateMoneyInLeetcodeBank">
+      <option name="closed" value="true" />
+      <created>1701880870634</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1701880870634</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -526,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SquaresOfASortedArray" />
     <MESSAGE value="MinimumSumOfFourDigitNumberAfterSplittingDigits" />
     <MESSAGE value="AverageSalaryExcludingTheMinimumAndMaximumSalary" />
     <MESSAGE value="LastStoneWeight" />
@@ -551,7 +552,8 @@
     <MESSAGE value="MaximumAverageSubarrayI" />
     <MESSAGE value="RemovingStarsFromAString" />
     <MESSAGE value="sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="sql" />
+    <MESSAGE value="CalculateMoneyInLeetcodeBank" />
+    <option name="LAST_COMMIT_MESSAGE" value="CalculateMoneyInLeetcodeBank" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
