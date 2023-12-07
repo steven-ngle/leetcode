@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="IncreasingTripletSubsequence">
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="StrongPasswordCheckerII">
+      <change afterPath="$PROJECT_DIR$/src/easy/LargestOddNumberInString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/StrongPasswordCheckerII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/StrongPasswordCheckerII.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,14 +56,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.MaximumAverageSubarrayI">
     <configuration name="ArrangingCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.ArrangingCoins" />
@@ -140,6 +147,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-3183f394aec4-4edb7f01" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -148,6 +162,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680197353294</updated>
+      <workItem from="1701966753009" duration="996000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -338,14 +353,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00060" summary="FibonacciNumber">
-      <option name="closed" value="true" />
-      <created>1699172384245</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1699172384245</updated>
-    </task>
     <task id="LOCAL-00061" summary="ValidPalindrome">
       <option name="closed" value="true" />
       <created>1699175651415</created>
@@ -514,8 +521,19 @@
       <option name="project" value="LOCAL" />
       <updated>1701881082514</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="StrongPasswordCheckerII">
+      <option name="closed" value="true" />
+      <created>1701881809275</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1701881809275</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -529,7 +547,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="AverageSalaryExcludingTheMinimumAndMaximumSalary" />
     <MESSAGE value="LastStoneWeight" />
     <MESSAGE value="SortArrayByParityII" />
     <MESSAGE value="LargestNumberAtLeastTwiceOfOthers" />
@@ -554,7 +571,8 @@
     <MESSAGE value="sql" />
     <MESSAGE value="CalculateMoneyInLeetcodeBank" />
     <MESSAGE value="IncreasingTripletSubsequence" />
-    <option name="LAST_COMMIT_MESSAGE" value="IncreasingTripletSubsequence" />
+    <MESSAGE value="StrongPasswordCheckerII" />
+    <option name="LAST_COMMIT_MESSAGE" value="StrongPasswordCheckerII" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
