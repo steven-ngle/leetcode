@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="StrongPasswordCheckerII">
-      <change afterPath="$PROJECT_DIR$/src/easy/LargestOddNumberInString.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="LargestOddNumberInString">
+      <change afterPath="$PROJECT_DIR$/src/easy/CustomersWhoNeverOrder.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/DuplicateEmails.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/EmployeeBonus.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/FindTotalTimeSpentByEachEmployee.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,21 +59,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.MaximumAverageSubarrayI">
     <configuration name="ArrangingCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.ArrangingCoins" />
@@ -162,7 +165,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680197353294</updated>
-      <workItem from="1701966753009" duration="996000" />
+      <workItem from="1701966753009" duration="1130000" />
+      <workItem from="1702209496974" duration="1159000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -353,14 +357,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00061" summary="ValidPalindrome">
-      <option name="closed" value="true" />
-      <created>1699175651415</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1699175651415</updated>
-    </task>
     <task id="LOCAL-00062" summary="8.11.23">
       <option name="closed" value="true" />
       <created>1699470994982</created>
@@ -529,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701881809275</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="LargestOddNumberInString">
+      <option name="closed" value="true" />
+      <created>1701967759729</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1701967759729</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,7 +551,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LastStoneWeight" />
     <MESSAGE value="SortArrayByParityII" />
     <MESSAGE value="LargestNumberAtLeastTwiceOfOthers" />
     <MESSAGE value="ClasseMoreThan5Students" />
@@ -572,7 +575,8 @@
     <MESSAGE value="CalculateMoneyInLeetcodeBank" />
     <MESSAGE value="IncreasingTripletSubsequence" />
     <MESSAGE value="StrongPasswordCheckerII" />
-    <option name="LAST_COMMIT_MESSAGE" value="StrongPasswordCheckerII" />
+    <MESSAGE value="LargestOddNumberInString" />
+    <option name="LAST_COMMIT_MESSAGE" value="LargestOddNumberInString" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
