@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="sql" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="GuessNumberHigherOrLower">
+      <change afterPath="$PROJECT_DIR$/src/easy/DetermineIfTwoStringsAreClose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,6 +164,8 @@
       <updated>1680197353294</updated>
       <workItem from="1701966753009" duration="1130000" />
       <workItem from="1702209496974" duration="1176000" />
+      <workItem from="1702324840681" duration="233000" />
+      <workItem from="1702331762222" duration="1156000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -351,14 +356,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00063" summary="FindTheDifference">
-      <option name="closed" value="true" />
-      <created>1699732775411</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1699732775412</updated>
-    </task>
     <task id="LOCAL-00064" summary="MergeStringsAlternately">
       <option name="closed" value="true" />
       <created>1699789232370</created>
@@ -527,7 +524,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702210669617</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="GuessNumberHigherOrLower">
+      <option name="closed" value="true" />
+      <created>1702325065473</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1702325065473</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -545,7 +550,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SortArrayByParityII" />
     <MESSAGE value="LargestNumberAtLeastTwiceOfOthers" />
     <MESSAGE value="ClasseMoreThan5Students" />
     <MESSAGE value="FibonacciNumber" />
@@ -570,7 +574,8 @@
     <MESSAGE value="StrongPasswordCheckerII" />
     <MESSAGE value="LargestOddNumberInString" />
     <MESSAGE value="sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="sql" />
+    <MESSAGE value="GuessNumberHigherOrLower" />
+    <option name="LAST_COMMIT_MESSAGE" value="GuessNumberHigherOrLower" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
