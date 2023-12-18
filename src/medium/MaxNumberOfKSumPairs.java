@@ -16,13 +16,13 @@ public class MaxNumberOfKSumPairs {
         while (left < right) {
             int sum = nums[left] + nums[right];
 
-            if (sum == k) {
-                counter++;
-                left++;
+            if (sum > k) {
                 right--;
             } else if (sum < k) {
                 left++;
             } else {
+                counter++;
+                left++;
                 right--;
             }
         }
