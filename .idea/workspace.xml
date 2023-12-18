@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="tbd">
-      <change afterPath="$PROJECT_DIR$/src/easy/StrongPasswordCheckerII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/ReverseWordsInAString.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="dailyQuestion">
+      <change afterPath="$PROJECT_DIR$/src/medium/MaxNumberOfKSumPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680197353294</updated>
-    </task>
-    <task id="LOCAL-00001" summary="commit">
-      <created>1680199191425</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1680199191425</updated>
     </task>
     <task id="LOCAL-00002" summary="commit">
       <created>1680199988221</created>
@@ -501,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700421910565</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="dailyQuestion">
+      <created>1702911718368</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1702911718368</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -516,7 +515,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="JewelsAndStones" />
     <MESSAGE value="RichestCustomerWealth" />
     <MESSAGE value="DivisibleAndNonDivisbleSumsDifference" />
     <MESSAGE value="MaximumNumberOfBalloons" />
@@ -541,7 +539,8 @@
     <MESSAGE value="IsSubsequence" />
     <MESSAGE value="19.11.2023" />
     <MESSAGE value="tbd" />
-    <option name="LAST_COMMIT_MESSAGE" value="tbd" />
+    <MESSAGE value="dailyQuestion" />
+    <option name="LAST_COMMIT_MESSAGE" value="dailyQuestion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
