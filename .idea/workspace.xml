@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="dailyQuestion">
-      <change afterPath="$PROJECT_DIR$/src/medium/MaxNumberOfKSumPairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="DetermineIfTwoStringsAreClose" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,10 +58,17 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IsSubsequence">
+  <component name="RunManager" selected="Application.MaximumAverageSubarrayI">
     <configuration name="ArrangingCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.ArrangingCoins" />
       <module name="leetcode" />
@@ -104,6 +108,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaximumAverageSubarrayI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.MaximumAverageSubarrayI" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProductOfArrayExceptSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="medium.ProductOfArrayExceptSelf" />
       <module name="leetcode" />
@@ -119,12 +136,20 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumAverageSubarrayI" />
         <item itemvalue="Application.IsSubsequence" />
         <item itemvalue="Application.ProductOfArrayExceptSelf" />
         <item itemvalue="Application.MaxConsecutiveOnes" />
         <item itemvalue="Application.ArrangingCoins" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-3183f394aec4-4edb7f01" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -134,6 +159,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680197353294</updated>
+      <workItem from="1701966753009" duration="1130000" />
+      <workItem from="1702209496974" duration="1176000" />
+      <workItem from="1702324840681" duration="233000" />
+      <workItem from="1702331762222" duration="1186000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1680199191425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680199191425</updated>
     </task>
     <task id="LOCAL-00002" summary="commit">
       <created>1680199988221</created>
@@ -317,118 +353,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00051" summary="RotateString">
-      <option name="closed" value="true" />
-      <created>1698593933895</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1698593933895</updated>
-    </task>
-    <task id="LOCAL-00052" summary="SquaresOfASortedArray">
-      <option name="closed" value="true" />
-      <created>1698754345916</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1698754345916</updated>
-    </task>
-    <task id="LOCAL-00053" summary="MinimumSumOfFourDigitNumberAfterSplittingDigits">
-      <option name="closed" value="true" />
-      <created>1699135720226</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1699135720226</updated>
-    </task>
-    <task id="LOCAL-00054" summary="AverageSalaryExcludingTheMinimumAndMaximumSalary">
-      <option name="closed" value="true" />
-      <created>1699136072668</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1699136072668</updated>
-    </task>
-    <task id="LOCAL-00055" summary="LastStoneWeight">
-      <option name="closed" value="true" />
-      <created>1699138975312</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1699138975312</updated>
-    </task>
-    <task id="LOCAL-00056" summary="SortArrayByParityII">
-      <option name="closed" value="true" />
-      <created>1699139700152</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1699139700152</updated>
-    </task>
-    <task id="LOCAL-00057" summary="LargestNumberAtLeastTwiceOfOthers">
-      <option name="closed" value="true" />
-      <created>1699170371935</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1699170371935</updated>
-    </task>
-    <task id="LOCAL-00058" summary="LargestNumberAtLeastTwiceOfOthers">
-      <option name="closed" value="true" />
-      <created>1699170446027</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1699170446027</updated>
-    </task>
-    <task id="LOCAL-00059" summary="ClasseMoreThan5Students">
-      <option name="closed" value="true" />
-      <created>1699171110882</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1699171110882</updated>
-    </task>
-    <task id="LOCAL-00060" summary="FibonacciNumber">
-      <option name="closed" value="true" />
-      <created>1699172384245</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1699172384245</updated>
-    </task>
-    <task id="LOCAL-00061" summary="ValidPalindrome">
-      <option name="closed" value="true" />
-      <created>1699175651415</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1699175651415</updated>
-    </task>
-    <task id="LOCAL-00062" summary="8.11.23">
-      <option name="closed" value="true" />
-      <created>1699470994982</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1699470994982</updated>
-    </task>
-    <task id="LOCAL-00063" summary="FindTheDifference">
-      <option name="closed" value="true" />
-      <created>1699732775411</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1699732775412</updated>
-    </task>
-    <task id="LOCAL-00064" summary="MergeStringsAlternately">
-      <option name="closed" value="true" />
-      <created>1699789232370</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1699789232370</updated>
-    </task>
     <task id="LOCAL-00065" summary="GreatestCommonDivisorOfStrings">
       <option name="closed" value="true" />
       <created>1699808843503</created>
@@ -493,15 +417,123 @@
       <option name="project" value="LOCAL" />
       <updated>1700421910565</updated>
     </task>
-    <task id="LOCAL-00073" summary="dailyQuestion">
-      <created>1702911718368</created>
+    <task id="LOCAL-00073" summary="ReverseWordsInAString">
+      <option name="closed" value="true" />
+      <created>1700686097470</created>
       <option name="number" value="00073" />
       <option name="presentableId" value="LOCAL-00073" />
       <option name="project" value="LOCAL" />
-      <updated>1702911718368</updated>
+      <updated>1700686097470</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="FindPivotIndex">
+      <option name="closed" value="true" />
+      <created>1700948669012</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1700948669012</updated>
+    </task>
+    <task id="LOCAL-00075" summary="MaximumAverageSubarrayI">
+      <option name="closed" value="true" />
+      <created>1701019443310</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1701019443310</updated>
+    </task>
+    <task id="LOCAL-00076" summary="sql">
+      <option name="closed" value="true" />
+      <created>1701107716232</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1701107716232</updated>
+    </task>
+    <task id="LOCAL-00077" summary="RemovingStarsFromAString">
+      <option name="closed" value="true" />
+      <created>1701112024447</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1701112024447</updated>
+    </task>
+    <task id="LOCAL-00078" summary="sql">
+      <option name="closed" value="true" />
+      <created>1701366959998</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1701366959998</updated>
+    </task>
+    <task id="LOCAL-00079" summary="CalculateMoneyInLeetcodeBank">
+      <option name="closed" value="true" />
+      <created>1701880814411</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1701880814412</updated>
+    </task>
+    <task id="LOCAL-00080" summary="CalculateMoneyInLeetcodeBank">
+      <option name="closed" value="true" />
+      <created>1701880870634</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1701880870634</updated>
+    </task>
+    <task id="LOCAL-00081" summary="IncreasingTripletSubsequence">
+      <option name="closed" value="true" />
+      <created>1701881082514</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1701881082514</updated>
+    </task>
+    <task id="LOCAL-00082" summary="StrongPasswordCheckerII">
+      <option name="closed" value="true" />
+      <created>1701881809275</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1701881809275</updated>
+    </task>
+    <task id="LOCAL-00083" summary="LargestOddNumberInString">
+      <option name="closed" value="true" />
+      <created>1701967759729</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1701967759729</updated>
+    </task>
+    <task id="LOCAL-00084" summary="sql">
+      <option name="closed" value="true" />
+      <created>1702210669617</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1702210669617</updated>
+    </task>
+    <task id="LOCAL-00085" summary="GuessNumberHigherOrLower">
+      <option name="closed" value="true" />
+      <created>1702325065473</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1702325065473</updated>
+    </task>
+    <task id="LOCAL-00086" summary="DetermineIfTwoStringsAreClose">
+      <option name="closed" value="true" />
+      <created>1702332937605</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1702332937605</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -515,16 +547,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RichestCustomerWealth" />
-    <MESSAGE value="DivisibleAndNonDivisbleSumsDifference" />
-    <MESSAGE value="MaximumNumberOfBalloons" />
-    <MESSAGE value="RotateString" />
-    <MESSAGE value="SquaresOfASortedArray" />
-    <MESSAGE value="MinimumSumOfFourDigitNumberAfterSplittingDigits" />
-    <MESSAGE value="AverageSalaryExcludingTheMinimumAndMaximumSalary" />
-    <MESSAGE value="LastStoneWeight" />
-    <MESSAGE value="SortArrayByParityII" />
-    <MESSAGE value="LargestNumberAtLeastTwiceOfOthers" />
     <MESSAGE value="ClasseMoreThan5Students" />
     <MESSAGE value="FibonacciNumber" />
     <MESSAGE value="ValidPalindrome" />
@@ -539,8 +561,18 @@
     <MESSAGE value="IsSubsequence" />
     <MESSAGE value="19.11.2023" />
     <MESSAGE value="tbd" />
-    <MESSAGE value="dailyQuestion" />
-    <option name="LAST_COMMIT_MESSAGE" value="dailyQuestion" />
+    <MESSAGE value="ReverseWordsInAString" />
+    <MESSAGE value="FindPivotIndex" />
+    <MESSAGE value="MaximumAverageSubarrayI" />
+    <MESSAGE value="RemovingStarsFromAString" />
+    <MESSAGE value="CalculateMoneyInLeetcodeBank" />
+    <MESSAGE value="IncreasingTripletSubsequence" />
+    <MESSAGE value="StrongPasswordCheckerII" />
+    <MESSAGE value="LargestOddNumberInString" />
+    <MESSAGE value="sql" />
+    <MESSAGE value="GuessNumberHigherOrLower" />
+    <MESSAGE value="DetermineIfTwoStringsAreClose" />
+    <option name="LAST_COMMIT_MESSAGE" value="DetermineIfTwoStringsAreClose" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
