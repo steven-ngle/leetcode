@@ -8,26 +8,29 @@ package easy;
  *               otherwise return 0
  * int guess(int num);
  */
-public class GuessNumberHigherOrLower extends GuessGame{
 
-    public int guessNumber(int n) {
+/**
+ public class GuessNumberHigherOrLower extends GuessGame{
 
-        int start = 1;
-        int end = n;
+ public int guessNumber(int n) {
 
-        while(start <= end) {
+ int start = 1;
+ int end = n;
 
-            int mid = start + (end - start) / 2;
+ while(start <= end) {
 
-            if (guess(mid) == -1) {
-                end = mid - 1;
-            } else if (guess(mid) == 1) {
-                start = mid + 1;
-            } else {
-                return mid;
-            }
-        }
+ int mid = start + (end - start) / 2;
 
-        return 0;
-    }
-}
+ if (guess(mid) == -1) {
+ end = mid - 1;
+ } else if (guess(mid) == 1) {
+ start = mid + 1;
+ } else {
+ return mid;
+ }
+ }
+
+ return 0;
+ }
+ }
+ */

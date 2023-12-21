@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="DetermineIfTwoStringsAreClose" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="SubstringsOfSizeThreeWithDistinctCharacters">
+      <change afterPath="$PROJECT_DIR$/src/FormatClassName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/BuyTwoChocolates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/WidestVerticalAreaBetweenTwoPointsContainingNoPoints.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/GuessNumberHigherOrLower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/GuessNumberHigherOrLower.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,24 +59,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BuyTwoChocolates.executor": "Run",
+    "Application.FormatClassName.executor": "Run",
+    "Application.MaximumAverageSubarrayI.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.MaximumAverageSubarrayI">
-    <configuration name="ArrangingCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.ArrangingCoins" />
+}]]></component>
+  <component name="RunManager" selected="Application.FormatClassName">
+    <configuration name="BuyTwoChocolates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.BuyTwoChocolates" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -78,25 +87,19 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormatClassName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FormatClassName" />
+      <module name="leetcode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="IsSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.IsSubsequence" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxConsecutiveOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.MaxConsecutiveOnes" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FormatClassName" />
+        <item itemvalue="Application.BuyTwoChocolates" />
         <item itemvalue="Application.MaximumAverageSubarrayI" />
         <item itemvalue="Application.IsSubsequence" />
         <item itemvalue="Application.ProductOfArrayExceptSelf" />
-        <item itemvalue="Application.MaxConsecutiveOnes" />
-        <item itemvalue="Application.ArrangingCoins" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +166,9 @@
       <workItem from="1702209496974" duration="1176000" />
       <workItem from="1702324840681" duration="233000" />
       <workItem from="1702331762222" duration="1186000" />
+      <workItem from="1702997258727" duration="11000" />
+      <workItem from="1703155597572" duration="134000" />
+      <workItem from="1703155781152" duration="3074000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -353,14 +359,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00065" summary="GreatestCommonDivisorOfStrings">
-      <option name="closed" value="true" />
-      <created>1699808843503</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1699808843503</updated>
-    </task>
     <task id="LOCAL-00066" summary="13.11.23">
       <option name="closed" value="true" />
       <created>1699899858525</created>
@@ -529,7 +527,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702332937605</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="SubstringsOfSizeThreeWithDistinctCharacters">
+      <option name="closed" value="true" />
+      <created>1702927223314</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1702927223314</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ClasseMoreThan5Students" />
     <MESSAGE value="FibonacciNumber" />
     <MESSAGE value="ValidPalindrome" />
     <MESSAGE value="8.11.23" />
@@ -572,7 +577,8 @@
     <MESSAGE value="sql" />
     <MESSAGE value="GuessNumberHigherOrLower" />
     <MESSAGE value="DetermineIfTwoStringsAreClose" />
-    <option name="LAST_COMMIT_MESSAGE" value="DetermineIfTwoStringsAreClose" />
+    <MESSAGE value="SubstringsOfSizeThreeWithDistinctCharacters" />
+    <option name="LAST_COMMIT_MESSAGE" value="SubstringsOfSizeThreeWithDistinctCharacters" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
