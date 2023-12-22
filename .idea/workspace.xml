@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="SubstringsOfSizeThreeWithDistinctCharacters">
-      <change afterPath="$PROJECT_DIR$/src/FormatClassName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/BuyTwoChocolates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/WidestVerticalAreaBetweenTwoPointsContainingNoPoints.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="21.12.23">
+      <change afterPath="$PROJECT_DIR$/src/easy/MaximumProductOfThreeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/GuessNumberHigherOrLower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/GuessNumberHigherOrLower.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,24 +56,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BuyTwoChocolates.executor": "Run",
-    "Application.FormatClassName.executor": "Run",
-    "Application.MaximumAverageSubarrayI.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BuyTwoChocolates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FormatClassName.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumAverageSubarrayI.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.FormatClassName">
     <configuration name="BuyTwoChocolates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.BuyTwoChocolates" />
@@ -168,7 +165,8 @@
       <workItem from="1702331762222" duration="1186000" />
       <workItem from="1702997258727" duration="11000" />
       <workItem from="1703155597572" duration="134000" />
-      <workItem from="1703155781152" duration="3074000" />
+      <workItem from="1703155781152" duration="3152000" />
+      <workItem from="1703183624485" duration="646000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -359,14 +357,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00066" summary="13.11.23">
-      <option name="closed" value="true" />
-      <created>1699899858525</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1699899858526</updated>
-    </task>
     <task id="LOCAL-00067" summary="15.11.23">
       <option name="closed" value="true" />
       <created>1700064471072</created>
@@ -535,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702927223314</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="21.12.23">
+      <option name="closed" value="true" />
+      <created>1703159833830</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1703159833830</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -553,7 +551,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="FibonacciNumber" />
     <MESSAGE value="ValidPalindrome" />
     <MESSAGE value="8.11.23" />
     <MESSAGE value="FindTheDifference" />
@@ -578,7 +575,8 @@
     <MESSAGE value="GuessNumberHigherOrLower" />
     <MESSAGE value="DetermineIfTwoStringsAreClose" />
     <MESSAGE value="SubstringsOfSizeThreeWithDistinctCharacters" />
-    <option name="LAST_COMMIT_MESSAGE" value="SubstringsOfSizeThreeWithDistinctCharacters" />
+    <MESSAGE value="21.12.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="21.12.23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
