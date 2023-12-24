@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="21.12.23">
-      <change afterPath="$PROJECT_DIR$/src/easy/MaximumProductOfThreeNumbers.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="22.12.23">
+      <change afterPath="$PROJECT_DIR$/src/easy/LinkedListCycle/LinkedListCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/LinkedListCycle/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/SearchInABinarySearchTree/SearchInABinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/SearchInABinarySearchTree/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +83,7 @@
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.*" />
+          <option name="PATTERN" value="easy.SearchInABinarySearchTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,7 +103,7 @@
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.*" />
+          <option name="PATTERN" value="easy.SearchInABinarySearchTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,7 +116,7 @@
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.*" />
+          <option name="PATTERN" value="easy.SearchInABinarySearchTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,6 +170,9 @@
       <workItem from="1703155597572" duration="134000" />
       <workItem from="1703155781152" duration="3152000" />
       <workItem from="1703183624485" duration="646000" />
+      <workItem from="1703253033519" duration="865000" />
+      <workItem from="1703340362782" duration="5000" />
+      <workItem from="1703414737635" duration="1530000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -357,14 +363,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00067" summary="15.11.23">
-      <option name="closed" value="true" />
-      <created>1700064471072</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1700064471072</updated>
-    </task>
     <task id="LOCAL-00068" summary="CanPlaceFlowers">
       <option name="closed" value="true" />
       <created>1700327898383</created>
@@ -533,7 +531,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703159833830</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="22.12.23">
+      <option name="closed" value="true" />
+      <created>1703255552847</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1703255552847</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +557,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ValidPalindrome" />
     <MESSAGE value="8.11.23" />
     <MESSAGE value="FindTheDifference" />
     <MESSAGE value="MergeStringsAlternately" />
@@ -576,7 +581,8 @@
     <MESSAGE value="DetermineIfTwoStringsAreClose" />
     <MESSAGE value="SubstringsOfSizeThreeWithDistinctCharacters" />
     <MESSAGE value="21.12.23" />
-    <option name="LAST_COMMIT_MESSAGE" value="21.12.23" />
+    <MESSAGE value="22.12.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="22.12.23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
