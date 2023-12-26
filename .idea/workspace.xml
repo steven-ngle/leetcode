@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="Merry Christmas">
-      <change afterPath="$PROJECT_DIR$/src/easy/PathCrossing.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="PathCrossing">
+      <change afterPath="$PROJECT_DIR$/src/easy/NotBoringMovies.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,24 +56,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BuyTwoChocolates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FormatClassName.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaximumAverageSubarrayI.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BuyTwoChocolates.executor": "Run",
+    "Application.FormatClassName.executor": "Run",
+    "Application.MaximumAverageSubarrayI.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.FormatClassName">
     <configuration name="BuyTwoChocolates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.BuyTwoChocolates" />
@@ -171,7 +176,8 @@
       <workItem from="1703340362782" duration="5000" />
       <workItem from="1703414737635" duration="1656000" />
       <workItem from="1703496490524" duration="14000" />
-      <workItem from="1703594574073" duration="1244000" />
+      <workItem from="1703594574073" duration="1420000" />
+      <workItem from="1703633375010" duration="74000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -362,14 +368,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00069" summary="ProductOfArrayExceptSelf">
-      <option name="closed" value="true" />
-      <created>1700330680263</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1700330680263</updated>
-    </task>
     <task id="LOCAL-00070" summary="IsSubsequence">
       <option name="closed" value="true" />
       <created>1700397287156</created>
@@ -538,7 +536,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703426037809</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="PathCrossing">
+      <option name="closed" value="true" />
+      <created>1703596258923</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1703596258923</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -556,7 +562,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="FindTheDifference" />
     <MESSAGE value="MergeStringsAlternately" />
     <MESSAGE value="GreatestCommonDivisorOfStrings" />
     <MESSAGE value="13.11.23" />
@@ -581,7 +586,8 @@
     <MESSAGE value="21.12.23" />
     <MESSAGE value="22.12.23" />
     <MESSAGE value="Merry Christmas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merry Christmas" />
+    <MESSAGE value="PathCrossing" />
+    <option name="LAST_COMMIT_MESSAGE" value="PathCrossing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
