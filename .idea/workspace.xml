@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="PathCrossing">
-      <change afterPath="$PROJECT_DIR$/src/easy/NotBoringMovies.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="NotBoringMovies.sql" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +174,7 @@
       <workItem from="1703414737635" duration="1656000" />
       <workItem from="1703496490524" duration="14000" />
       <workItem from="1703594574073" duration="1420000" />
-      <workItem from="1703633375010" duration="74000" />
+      <workItem from="1703633375010" duration="193000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -368,14 +365,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00070" summary="IsSubsequence">
-      <option name="closed" value="true" />
-      <created>1700397287156</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1700397287157</updated>
-    </task>
     <task id="LOCAL-00071" summary="19.11.2023">
       <option name="closed" value="true" />
       <created>1700417694115</created>
@@ -544,7 +533,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703596258923</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="NotBoringMovies.sql">
+      <option name="closed" value="true" />
+      <created>1703633549663</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1703633549664</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +559,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MergeStringsAlternately" />
     <MESSAGE value="GreatestCommonDivisorOfStrings" />
     <MESSAGE value="13.11.23" />
     <MESSAGE value="15.11.23" />
@@ -587,7 +583,8 @@
     <MESSAGE value="22.12.23" />
     <MESSAGE value="Merry Christmas" />
     <MESSAGE value="PathCrossing" />
-    <option name="LAST_COMMIT_MESSAGE" value="PathCrossing" />
+    <MESSAGE value="NotBoringMovies.sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="NotBoringMovies.sql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
