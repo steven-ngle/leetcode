@@ -7,10 +7,10 @@ public class TeemoAttacking {
         int result = duration;
 
         for(int i = 0; i < timeSeries.length - 1; i++) {
-            if(timeSeries[i] + duration <= timeSeries[i+1]) {
+            if(timeSeries[i] + duration <= timeSeries[i + 1]) {
                 result += duration;
             } else {
-                result += timeSeries[i+1] - timeSeries[i];
+                result += timeSeries[i + 1] - timeSeries[i];
             }
         }
 
