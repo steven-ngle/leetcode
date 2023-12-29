@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="EmployeesWhoseManagerLeftTheCompany.sql">
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="StringMatchingInAnArray">
+      <change afterPath="$PROJECT_DIR$/src/medium/EvaluateReversePolishNotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,30 +59,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BuyTwoChocolates.executor": "Run",
-    "Application.FormatClassName.executor": "Run",
-    "Application.MaximumAverageSubarrayI.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BuyTwoChocolates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FormatClassName.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumAverageSubarrayI.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "oracle"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;oracle&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.FormatClassName">
     <configuration name="BuyTwoChocolates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.BuyTwoChocolates" />
@@ -185,6 +186,9 @@
       <workItem from="1703636813513" duration="141000" />
       <workItem from="1703636962576" duration="128000" />
       <workItem from="1703675451045" duration="252000" />
+      <workItem from="1703771353410" duration="68000" />
+      <workItem from="1703776733332" duration="4000" />
+      <workItem from="1703865920374" duration="2205000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -375,14 +379,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00074" summary="FindPivotIndex">
-      <option name="closed" value="true" />
-      <created>1700948669012</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1700948669012</updated>
-    </task>
     <task id="LOCAL-00075" summary="MaximumAverageSubarrayI">
       <option name="closed" value="true" />
       <created>1701019443310</created>
@@ -551,7 +547,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703675631343</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="StringMatchingInAnArray">
+      <option name="closed" value="true" />
+      <created>1703771412917</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1703771412917</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -569,7 +573,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="15.11.23" />
     <MESSAGE value="CanPlaceFlowers" />
     <MESSAGE value="ProductOfArrayExceptSelf" />
     <MESSAGE value="IsSubsequence" />
@@ -594,7 +597,8 @@
     <MESSAGE value="NotBoringMovies.sql" />
     <MESSAGE value="TeemoAttacking" />
     <MESSAGE value="EmployeesWhoseManagerLeftTheCompany.sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="EmployeesWhoseManagerLeftTheCompany.sql" />
+    <MESSAGE value="StringMatchingInAnArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="StringMatchingInAnArray" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
