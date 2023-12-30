@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="StringMatchingInAnArray">
-      <change afterPath="$PROJECT_DIR$/src/medium/EvaluateReversePolishNotation.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="EvaluateReversePolishNotation">
+      <change afterPath="$PROJECT_DIR$/src/easy/RedistributeCharactersToMakeAllStringsEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/FindTheDuplicateNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -188,7 +189,8 @@
       <workItem from="1703675451045" duration="252000" />
       <workItem from="1703771353410" duration="68000" />
       <workItem from="1703776733332" duration="4000" />
-      <workItem from="1703865920374" duration="2205000" />
+      <workItem from="1703865920374" duration="2684000" />
+      <workItem from="1703928498091" duration="3550000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -379,14 +381,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00075" summary="MaximumAverageSubarrayI">
-      <option name="closed" value="true" />
-      <created>1701019443310</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1701019443310</updated>
-    </task>
     <task id="LOCAL-00076" summary="sql">
       <option name="closed" value="true" />
       <created>1701107716232</created>
@@ -555,7 +549,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703771412917</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="EvaluateReversePolishNotation">
+      <option name="closed" value="true" />
+      <created>1703878815522</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1703878815522</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -573,7 +575,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CanPlaceFlowers" />
     <MESSAGE value="ProductOfArrayExceptSelf" />
     <MESSAGE value="IsSubsequence" />
     <MESSAGE value="19.11.2023" />
@@ -598,7 +599,8 @@
     <MESSAGE value="TeemoAttacking" />
     <MESSAGE value="EmployeesWhoseManagerLeftTheCompany.sql" />
     <MESSAGE value="StringMatchingInAnArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="StringMatchingInAnArray" />
+    <MESSAGE value="EvaluateReversePolishNotation" />
+    <option name="LAST_COMMIT_MESSAGE" value="EvaluateReversePolishNotation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
