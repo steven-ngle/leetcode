@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="EvaluateReversePolishNotation">
-      <change afterPath="$PROJECT_DIR$/src/easy/RedistributeCharactersToMakeAllStringsEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/FindTheDuplicateNumber.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="30.12.23">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -190,7 +188,8 @@
       <workItem from="1703771353410" duration="68000" />
       <workItem from="1703776733332" duration="4000" />
       <workItem from="1703865920374" duration="2684000" />
-      <workItem from="1703928498091" duration="3550000" />
+      <workItem from="1703928498091" duration="5840000" />
+      <workItem from="1704024147033" duration="1299000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -381,14 +380,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00076" summary="sql">
-      <option name="closed" value="true" />
-      <created>1701107716232</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1701107716232</updated>
-    </task>
     <task id="LOCAL-00077" summary="RemovingStarsFromAString">
       <option name="closed" value="true" />
       <created>1701112024447</created>
@@ -557,7 +548,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703878815522</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="30.12.23">
+      <option name="closed" value="true" />
+      <created>1703947919669</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1703947919670</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -575,7 +574,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ProductOfArrayExceptSelf" />
     <MESSAGE value="IsSubsequence" />
     <MESSAGE value="19.11.2023" />
     <MESSAGE value="tbd" />
@@ -600,7 +598,8 @@
     <MESSAGE value="EmployeesWhoseManagerLeftTheCompany.sql" />
     <MESSAGE value="StringMatchingInAnArray" />
     <MESSAGE value="EvaluateReversePolishNotation" />
-    <option name="LAST_COMMIT_MESSAGE" value="EvaluateReversePolishNotation" />
+    <MESSAGE value="30.12.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="30.12.23" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
