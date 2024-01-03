@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="AssignCookies">
-      <change afterPath="$PROJECT_DIR$/src/easy/AverageValueOfEvenNumbersThatAreDivisibleByThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/CheckIfNumbersAreAscendingInASentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/MaximumNumberOfWordsFoundInSentences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/ConvertAnArrayIntoA2dArrayWithConditions.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="2.1.24">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/ConvertAnArrayIntoA2DArrayWithConditions.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,10 +153,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.FormatClassName" />
-        <item itemvalue="Application.BuyTwoChocolates" />
+        <item itemvalue="Application.ProductOfArrayExceptSelf" />
         <item itemvalue="Application.MaximumAverageSubarrayI" />
         <item itemvalue="Application.IsSubsequence" />
-        <item itemvalue="Application.ProductOfArrayExceptSelf" />
+        <item itemvalue="Application.BuyTwoChocolates" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +200,8 @@
       <workItem from="1704024147033" duration="1442000" />
       <workItem from="1704122286566" duration="143000" />
       <workItem from="1704212869078" duration="353000" />
-      <workItem from="1704213232437" duration="913000" />
+      <workItem from="1704213232437" duration="1678000" />
+      <workItem from="1704214940299" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -396,14 +392,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00079" summary="CalculateMoneyInLeetcodeBank">
-      <option name="closed" value="true" />
-      <created>1701880814411</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1701880814412</updated>
-    </task>
     <task id="LOCAL-00080" summary="CalculateMoneyInLeetcodeBank">
       <option name="closed" value="true" />
       <created>1701880870634</created>
@@ -572,7 +560,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704122423816</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="2.1.24">
+      <option name="closed" value="true" />
+      <created>1704214498222</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1704214498222</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -590,7 +586,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="tbd" />
     <MESSAGE value="ReverseWordsInAString" />
     <MESSAGE value="FindPivotIndex" />
     <MESSAGE value="MaximumAverageSubarrayI" />
@@ -615,7 +610,8 @@
     <MESSAGE value="30.12.23" />
     <MESSAGE value="Happy New Year!" />
     <MESSAGE value="AssignCookies" />
-    <option name="LAST_COMMIT_MESSAGE" value="AssignCookies" />
+    <MESSAGE value="2.1.24" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.1.24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
