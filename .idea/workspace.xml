@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="NumberOfLaserBeamsInABank">
-      <change afterPath="$PROJECT_DIR$/src/easy/CheckIfAllCharactersHaveEqualNumberOfOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/MinimumNumberOfOperationsToMakeArrayEmpty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/MinimumRoundsToCompleteAllTasks.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="5.1.24">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -206,7 +203,9 @@
       <workItem from="1704213232437" duration="1678000" />
       <workItem from="1704214940299" duration="30000" />
       <workItem from="1704294261897" duration="79000" />
-      <workItem from="1704474502137" duration="314000" />
+      <workItem from="1704474502137" duration="404000" />
+      <workItem from="1704474918841" duration="46000" />
+      <workItem from="1704717211442" duration="2989000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -397,14 +396,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00081" summary="IncreasingTripletSubsequence">
-      <option name="closed" value="true" />
-      <created>1701881082514</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1701881082514</updated>
-    </task>
     <task id="LOCAL-00082" summary="StrongPasswordCheckerII">
       <option name="closed" value="true" />
       <created>1701881809275</created>
@@ -573,7 +564,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704294326709</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="5.1.24">
+      <option name="closed" value="true" />
+      <created>1704474861140</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1704474861141</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -591,7 +590,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="FindPivotIndex" />
     <MESSAGE value="MaximumAverageSubarrayI" />
     <MESSAGE value="RemovingStarsFromAString" />
     <MESSAGE value="CalculateMoneyInLeetcodeBank" />
@@ -616,7 +614,8 @@
     <MESSAGE value="AssignCookies" />
     <MESSAGE value="2.1.24" />
     <MESSAGE value="NumberOfLaserBeamsInABank" />
-    <option name="LAST_COMMIT_MESSAGE" value="NumberOfLaserBeamsInABank" />
+    <MESSAGE value="5.1.24" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.1.24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
