@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="5.1.24">
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="PercentageOfLetterInString">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -206,6 +206,8 @@
       <workItem from="1704474502137" duration="404000" />
       <workItem from="1704474918841" duration="46000" />
       <workItem from="1704717211442" duration="2989000" />
+      <workItem from="1704878322272" duration="103000" />
+      <workItem from="1704916318320" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -396,14 +398,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00082" summary="StrongPasswordCheckerII">
-      <option name="closed" value="true" />
-      <created>1701881809275</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1701881809275</updated>
-    </task>
     <task id="LOCAL-00083" summary="LargestOddNumberInString">
       <option name="closed" value="true" />
       <created>1701967759729</created>
@@ -572,7 +566,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704474861141</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="PercentageOfLetterInString">
+      <option name="closed" value="true" />
+      <created>1704878413398</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1704878413399</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -590,7 +592,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MaximumAverageSubarrayI" />
     <MESSAGE value="RemovingStarsFromAString" />
     <MESSAGE value="CalculateMoneyInLeetcodeBank" />
     <MESSAGE value="IncreasingTripletSubsequence" />
@@ -615,7 +616,8 @@
     <MESSAGE value="2.1.24" />
     <MESSAGE value="NumberOfLaserBeamsInABank" />
     <MESSAGE value="5.1.24" />
-    <option name="LAST_COMMIT_MESSAGE" value="5.1.24" />
+    <MESSAGE value="PercentageOfLetterInString" />
+    <option name="LAST_COMMIT_MESSAGE" value="PercentageOfLetterInString" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
