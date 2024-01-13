@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="NumberOfLaserBeamsInABank">
-      <change afterPath="$PROJECT_DIR$/src/medium/MaximumNumberOfVowelsInASubstringOfGivenLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="MaximumNumberOfVowelsInASubstringOfGivenLength">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +91,7 @@
       <recent name="medium" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaximumNumberOfVowelsInASubstringOfGivenLength">
+  <component name="RunManager" selected="Application.FormatClassName">
     <configuration name="FormatClassName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FormatClassName" />
       <module name="leetcode" />
@@ -155,8 +153,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumNumberOfVowelsInASubstringOfGivenLength" />
         <item itemvalue="Application.FormatClassName" />
+        <item itemvalue="Application.MaximumNumberOfVowelsInASubstringOfGivenLength" />
         <item itemvalue="Application.ProductOfArrayExceptSelf" />
         <item itemvalue="Application.MaximumAverageSubarrayI" />
         <item itemvalue="Application.IsSubsequence" />
@@ -397,14 +395,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00081" summary="IncreasingTripletSubsequence">
-      <option name="closed" value="true" />
-      <created>1701881082514</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1701881082514</updated>
-    </task>
     <task id="LOCAL-00082" summary="StrongPasswordCheckerII">
       <option name="closed" value="true" />
       <created>1701881809275</created>
@@ -573,7 +563,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704294326709</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="MaximumNumberOfVowelsInASubstringOfGivenLength">
+      <option name="closed" value="true" />
+      <created>1705154529298</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1705154529298</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -591,7 +589,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="FindPivotIndex" />
     <MESSAGE value="MaximumAverageSubarrayI" />
     <MESSAGE value="RemovingStarsFromAString" />
     <MESSAGE value="CalculateMoneyInLeetcodeBank" />
@@ -616,7 +613,8 @@
     <MESSAGE value="AssignCookies" />
     <MESSAGE value="2.1.24" />
     <MESSAGE value="NumberOfLaserBeamsInABank" />
-    <option name="LAST_COMMIT_MESSAGE" value="NumberOfLaserBeamsInABank" />
+    <MESSAGE value="MaximumNumberOfVowelsInASubstringOfGivenLength" />
+    <option name="LAST_COMMIT_MESSAGE" value="MaximumNumberOfVowelsInASubstringOfGivenLength" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
