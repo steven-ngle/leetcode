@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="PercentageOfLetterInString">
-      <change afterPath="$PROJECT_DIR$/src/easy/ReplaceEmployeeIdWithTheUniqueIdentifier.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_01_24,_07_53_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_13_01_24__07_53__Changes_.xml" beforeDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="ReplaceEmployeeIdWithTheUniqueIdentifier.sql">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +73,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -213,7 +209,7 @@
       <workItem from="1704878322272" duration="103000" />
       <workItem from="1704916318320" duration="9000" />
       <workItem from="1705852126299" duration="5000" />
-      <workItem from="1705923861782" duration="387000" />
+      <workItem from="1705923861782" duration="820000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -404,14 +400,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00083" summary="LargestOddNumberInString">
-      <option name="closed" value="true" />
-      <created>1701967759729</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1701967759729</updated>
-    </task>
     <task id="LOCAL-00084" summary="sql">
       <option name="closed" value="true" />
       <created>1702210669617</created>
@@ -580,7 +568,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704878413399</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="ReplaceEmployeeIdWithTheUniqueIdentifier.sql">
+      <option name="closed" value="true" />
+      <created>1705924321449</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1705924321449</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -598,7 +594,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="RemovingStarsFromAString" />
     <MESSAGE value="CalculateMoneyInLeetcodeBank" />
     <MESSAGE value="IncreasingTripletSubsequence" />
     <MESSAGE value="StrongPasswordCheckerII" />
@@ -623,7 +618,8 @@
     <MESSAGE value="NumberOfLaserBeamsInABank" />
     <MESSAGE value="5.1.24" />
     <MESSAGE value="PercentageOfLetterInString" />
-    <option name="LAST_COMMIT_MESSAGE" value="PercentageOfLetterInString" />
+    <MESSAGE value="ReplaceEmployeeIdWithTheUniqueIdentifier.sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReplaceEmployeeIdWithTheUniqueIdentifier.sql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
