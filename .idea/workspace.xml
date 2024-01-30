@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="ContainsDuplicateII">
-      <change afterPath="$PROJECT_DIR$/src/easy/FindFollowersCount.sql" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="ReplaceEmployeeIdWithTheUniqueIdentifier.sql">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,30 +58,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BuyTwoChocolates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FormatClassName.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaximumAverageSubarrayI.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BuyTwoChocolates.executor": "Run",
+    "Application.FormatClassName.executor": "Run",
+    "Application.MaximumAverageSubarrayI.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Font",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;oracle&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="medium" />
@@ -211,13 +210,6 @@
       <workItem from="1704916318320" duration="9000" />
       <workItem from="1705852126299" duration="5000" />
       <workItem from="1705923861782" duration="820000" />
-      <workItem from="1705928685337" duration="113000" />
-      <workItem from="1706041196754" duration="327000" />
-      <workItem from="1706122945699" duration="40000" />
-      <workItem from="1706259470689" duration="442000" />
-      <workItem from="1706259961584" duration="17000" />
-      <workItem from="1706302208937" duration="125000" />
-      <workItem from="1706349115172" duration="101000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -408,6 +400,30 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
+    <task id="LOCAL-00084" summary="sql">
+      <option name="closed" value="true" />
+      <created>1702210669617</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1702210669617</updated>
+    </task>
+    <task id="LOCAL-00085" summary="GuessNumberHigherOrLower">
+      <option name="closed" value="true" />
+      <created>1702325065473</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1702325065473</updated>
+    </task>
+    <task id="LOCAL-00086" summary="DetermineIfTwoStringsAreClose">
+      <option name="closed" value="true" />
+      <created>1702332937605</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1702332937605</updated>
+    </task>
     <task id="LOCAL-00087" summary="SubstringsOfSizeThreeWithDistinctCharacters">
       <option name="closed" value="true" />
       <created>1702927223314</created>
@@ -560,31 +576,7 @@
       <option name="project" value="LOCAL" />
       <updated>1705924321449</updated>
     </task>
-    <task id="LOCAL-00106" summary="ProductSalesAnalysisI.sql">
-      <option name="closed" value="true" />
-      <created>1705928772577</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1705928772578</updated>
-    </task>
-    <task id="LOCAL-00107" summary="CustomerWhoVisitedButDidNotMakeAnyTransactions.sql">
-      <option name="closed" value="true" />
-      <created>1706041510563</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1706041510563</updated>
-    </task>
-    <task id="LOCAL-00108" summary="ContainsDuplicateII">
-      <option name="closed" value="true" />
-      <created>1706259869520</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1706259869520</updated>
-    </task>
-    <option name="localTasksCounter" value="109" />
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,6 +594,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="CalculateMoneyInLeetcodeBank" />
+    <MESSAGE value="IncreasingTripletSubsequence" />
+    <MESSAGE value="StrongPasswordCheckerII" />
     <MESSAGE value="LargestOddNumberInString" />
     <MESSAGE value="sql" />
     <MESSAGE value="GuessNumberHigherOrLower" />
@@ -624,10 +619,7 @@
     <MESSAGE value="5.1.24" />
     <MESSAGE value="PercentageOfLetterInString" />
     <MESSAGE value="ReplaceEmployeeIdWithTheUniqueIdentifier.sql" />
-    <MESSAGE value="ProductSalesAnalysisI.sql" />
-    <MESSAGE value="CustomerWhoVisitedButDidNotMakeAnyTransactions.sql" />
-    <MESSAGE value="ContainsDuplicateII" />
-    <option name="LAST_COMMIT_MESSAGE" value="ContainsDuplicateII" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReplaceEmployeeIdWithTheUniqueIdentifier.sql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
