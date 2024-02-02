@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="ContainsDuplicateII">
-      <change afterPath="$PROJECT_DIR$/src/easy/FindFollowersCount.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="BiggestSingleNumber.sql" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -408,14 +405,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00087" summary="SubstringsOfSizeThreeWithDistinctCharacters">
-      <option name="closed" value="true" />
-      <created>1702927223314</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1702927223314</updated>
-    </task>
     <task id="LOCAL-00088" summary="21.12.23">
       <option name="closed" value="true" />
       <created>1703159833830</created>
@@ -584,7 +573,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706259869520</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="BiggestSingleNumber.sql">
+      <option name="closed" value="true" />
+      <created>1706897106051</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1706897106052</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -602,7 +599,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="LargestOddNumberInString" />
     <MESSAGE value="sql" />
     <MESSAGE value="GuessNumberHigherOrLower" />
     <MESSAGE value="DetermineIfTwoStringsAreClose" />
@@ -627,7 +623,8 @@
     <MESSAGE value="ProductSalesAnalysisI.sql" />
     <MESSAGE value="CustomerWhoVisitedButDidNotMakeAnyTransactions.sql" />
     <MESSAGE value="ContainsDuplicateII" />
-    <option name="LAST_COMMIT_MESSAGE" value="ContainsDuplicateII" />
+    <MESSAGE value="BiggestSingleNumber.sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="BiggestSingleNumber.sql" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
