@@ -6,6 +6,7 @@ import java.util.List;
 
 public class KeyboardRow {
 
+    // first version
     public String[] findWords(String[] words) {
         String firstRow = "qwertyuiopQWERTYUIOP";
         String secondRow = "asdfghjklASDFGHJKL";
@@ -43,4 +44,40 @@ public class KeyboardRow {
 
         return res;
     }
+
+    /* second version
+
+    public String[] findWords(String[] words) {
+        String firstRow = "qwertyuiopQWERTYUIOP";
+        String secondRow = "asdfghjklASDFGHJKL";
+        String thirdRow = "zxcvbnmZXCVBNM";
+
+        List<String> temp = new ArrayList<>();
+
+        for (int i = 0; i < words.length; i++) {
+
+            int j = 0;
+            boolean flag = false;
+            flag = isFlag(words, firstRow, temp, i, j, flag);
+            flag = isFlag(words, secondRow, temp, i, j, flag);
+            flag = isFlag(words, thirdRow, temp, i, j, flag);
+        }
+
+        return temp.toArray(new String[0]);
+    }
+
+    private boolean isFlag(String[] words, String firstRow, List<String> temp, int i, int j, boolean flag) {
+        if (firstRow.contains(String.valueOf(words[i].charAt(j)))) {
+            for (int k = 0; k < words[i].length(); k++) {
+                if (!firstRow.contains(String.valueOf(words[i].charAt(k)))) {
+                    flag = true;
+                    break;
+                }
+            }
+            if (!flag) temp.add(words[i]);
+        }
+        return flag;
+    }
+
+     */
 }
