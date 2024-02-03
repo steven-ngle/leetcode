@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="RearrangeCharactersToMakeTargetString">
-      <change afterPath="$PROJECT_DIR$/src/medium/TopKFrequentElements.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="TopKFrequentElements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,30 +58,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BuyTwoChocolates.executor": "Run",
-    "Application.FormatClassName.executor": "Run",
-    "Application.MaximumAverageSubarrayI.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.import",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BuyTwoChocolates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FormatClassName.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumAverageSubarrayI.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "oracle"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;oracle&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="medium" />
@@ -218,7 +217,9 @@
       <workItem from="1706259961584" duration="17000" />
       <workItem from="1706302208937" duration="125000" />
       <workItem from="1706349115172" duration="101000" />
-      <workItem from="1706900145804" duration="1854000" />
+      <workItem from="1706900145804" duration="1913000" />
+      <workItem from="1706902087587" duration="35000" />
+      <workItem from="1706902129472" duration="190000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -409,14 +410,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00089" summary="22.12.23">
-      <option name="closed" value="true" />
-      <created>1703255552847</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1703255552847</updated>
-    </task>
     <task id="LOCAL-00090" summary="Merry Christmas">
       <option name="closed" value="true" />
       <created>1703426037808</created>
@@ -585,7 +578,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706900223787</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="TopKFrequentElements">
+      <option name="closed" value="true" />
+      <created>1706902058406</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1706902058406</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,7 +604,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="GuessNumberHigherOrLower" />
     <MESSAGE value="DetermineIfTwoStringsAreClose" />
     <MESSAGE value="SubstringsOfSizeThreeWithDistinctCharacters" />
     <MESSAGE value="21.12.23" />
@@ -628,7 +628,8 @@
     <MESSAGE value="ContainsDuplicateII" />
     <MESSAGE value="BiggestSingleNumber.sql" />
     <MESSAGE value="RearrangeCharactersToMakeTargetString" />
-    <option name="LAST_COMMIT_MESSAGE" value="RearrangeCharactersToMakeTargetString" />
+    <MESSAGE value="TopKFrequentElements" />
+    <option name="LAST_COMMIT_MESSAGE" value="TopKFrequentElements" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
