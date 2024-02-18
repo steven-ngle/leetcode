@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="TopKFrequentElements">
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="KeyboardRow">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,7 @@
     &quot;Application.MaximumAverageSubarrayI.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
@@ -220,6 +221,8 @@
       <workItem from="1706900145804" duration="1913000" />
       <workItem from="1706902087587" duration="35000" />
       <workItem from="1706902129472" duration="190000" />
+      <workItem from="1706955429716" duration="352000" />
+      <workItem from="1707138279342" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -410,22 +413,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00090" summary="Merry Christmas">
-      <option name="closed" value="true" />
-      <created>1703426037808</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1703426037809</updated>
-    </task>
-    <task id="LOCAL-00091" summary="PathCrossing">
-      <option name="closed" value="true" />
-      <created>1703596258923</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1703596258923</updated>
-    </task>
     <task id="LOCAL-00092" summary="NotBoringMovies.sql">
       <option name="closed" value="true" />
       <created>1703633549663</created>
@@ -586,7 +573,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706902058406</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="KeyboardRow">
+      <option name="closed" value="true" />
+      <created>1706955548704</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1706955548704</updated>
+    </task>
+    <task id="LOCAL-00113" summary="KeyboardRow">
+      <option name="closed" value="true" />
+      <created>1706955727376</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1706955727376</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -604,7 +607,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="DetermineIfTwoStringsAreClose" />
     <MESSAGE value="SubstringsOfSizeThreeWithDistinctCharacters" />
     <MESSAGE value="21.12.23" />
     <MESSAGE value="22.12.23" />
@@ -629,7 +631,8 @@
     <MESSAGE value="BiggestSingleNumber.sql" />
     <MESSAGE value="RearrangeCharactersToMakeTargetString" />
     <MESSAGE value="TopKFrequentElements" />
-    <option name="LAST_COMMIT_MESSAGE" value="TopKFrequentElements" />
+    <MESSAGE value="KeyboardRow" />
+    <option name="LAST_COMMIT_MESSAGE" value="KeyboardRow" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
