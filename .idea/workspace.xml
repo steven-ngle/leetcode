@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="ReplaceEmployeeIdWithTheUniqueIdentifier.sql">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="ReplaceEmployeeIdWithTheUniqueIdentifier.sql" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -214,6 +212,7 @@
       <workItem from="1708895952663" duration="37000" />
       <workItem from="1708895997916" duration="112000" />
       <workItem from="1708896115509" duration="11000" />
+      <workItem from="1709463007343" duration="711000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
