@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="SignOfTheProductOfAnArray">
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="10.4.24">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,14 +33,12 @@
     &quot;assignee&quot;: &quot;steven-ngle&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="ae640a7d-2962-42f8-a497-68866002c1c5" />
-        <option name="url" value="https://github.com/steven-ngle/leetcodeSolutions.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/steven-ngle/leetcodeSolutions.git&quot;,
+    &quot;accountId&quot;: &quot;ae640a7d-2962-42f8-a497-68866002c1c5&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/easy/TeemoAttacking.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -74,7 +72,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.github.copilot.settings.ApplicationConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -164,7 +162,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-20.0.2-azul-20.0.2-4caba194b151-eb49e076" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -229,6 +228,9 @@
       <workItem from="1711709937811" duration="661000" />
       <workItem from="1711710616202" duration="52000" />
       <workItem from="1711710757451" duration="105000" />
+      <workItem from="1712743084596" duration="250000" />
+      <workItem from="1712743352325" duration="694000" />
+      <workItem from="1712765336077" duration="620000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -419,14 +421,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00095" summary="EmployeesWhoseManagerLeftTheCompany.sql">
-      <option name="closed" value="true" />
-      <created>1703675631343</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1703675631343</updated>
-    </task>
     <task id="LOCAL-00096" summary="StringMatchingInAnArray">
       <option name="closed" value="true" />
       <created>1703771412917</created>
@@ -595,7 +589,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711710139074</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="10.4.24">
+      <option name="closed" value="true" />
+      <created>1712743260540</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1712743260541</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -613,7 +615,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="PathCrossing" />
     <MESSAGE value="NotBoringMovies.sql" />
     <MESSAGE value="TeemoAttacking" />
     <MESSAGE value="EmployeesWhoseManagerLeftTheCompany.sql" />
@@ -638,7 +639,8 @@
     <MESSAGE value="CheckIfWordEqualsSummationOfTwoWords" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="SignOfTheProductOfAnArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="SignOfTheProductOfAnArray" />
+    <MESSAGE value="10.4.24" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.4.24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
