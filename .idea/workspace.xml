@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="CalculateDelayedArrivalTime">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="NumberOfSeniorCitizens" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -236,7 +234,7 @@
       <workItem from="1713786971940" duration="49000" />
       <workItem from="1713787027654" duration="679000" />
       <workItem from="1713787722456" duration="5000" />
-      <workItem from="1713787784856" duration="598000" />
+      <workItem from="1713787784856" duration="1250000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -427,14 +425,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00099" summary="Happy New Year!">
-      <option name="closed" value="true" />
-      <created>1704034068730</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1704034068730</updated>
-    </task>
     <task id="LOCAL-00100" summary="AssignCookies">
       <option name="closed" value="true" />
       <created>1704122423816</created>
@@ -603,7 +593,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713786938905</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="NumberOfSeniorCitizens">
+      <option name="closed" value="true" />
+      <created>1713791794059</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1713791794060</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -621,7 +619,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="StringMatchingInAnArray" />
     <MESSAGE value="EvaluateReversePolishNotation" />
     <MESSAGE value="30.12.23" />
     <MESSAGE value="Happy New Year!" />
@@ -646,7 +643,8 @@
     <MESSAGE value="RelativeRanks" />
     <MESSAGE value="RobotReturnToOrigin" />
     <MESSAGE value="CalculateDelayedArrivalTime" />
-    <option name="LAST_COMMIT_MESSAGE" value="CalculateDelayedArrivalTime" />
+    <MESSAGE value="NumberOfSeniorCitizens" />
+    <option name="LAST_COMMIT_MESSAGE" value="NumberOfSeniorCitizens" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
