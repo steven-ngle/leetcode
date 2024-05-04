@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="FindTargetIndicesAfterSortingArray">
-      <change afterPath="$PROJECT_DIR$/src/easy/ANumberAfterADoubleReversal.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="RelativeRanks">
+      <change afterPath="$PROJECT_DIR$/src/easy/MaximumSumWithExactlyKElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +74,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -232,12 +233,6 @@
       <workItem from="1712743084596" duration="250000" />
       <workItem from="1712743352325" duration="694000" />
       <workItem from="1712765336077" duration="620000" />
-      <workItem from="1713098698040" duration="70000" />
-      <workItem from="1713786004552" duration="821000" />
-      <workItem from="1713786971940" duration="49000" />
-      <workItem from="1713787027654" duration="679000" />
-      <workItem from="1713787722456" duration="5000" />
-      <workItem from="1713787784856" duration="1897000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -428,6 +423,46 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
+    <task id="LOCAL-00097" summary="EvaluateReversePolishNotation">
+      <option name="closed" value="true" />
+      <created>1703878815522</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1703878815522</updated>
+    </task>
+    <task id="LOCAL-00098" summary="30.12.23">
+      <option name="closed" value="true" />
+      <created>1703947919669</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1703947919670</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Happy New Year!">
+      <option name="closed" value="true" />
+      <created>1704034068730</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1704034068730</updated>
+    </task>
+    <task id="LOCAL-00100" summary="AssignCookies">
+      <option name="closed" value="true" />
+      <created>1704122423816</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1704122423816</updated>
+    </task>
+    <task id="LOCAL-00101" summary="2.1.24">
+      <option name="closed" value="true" />
+      <created>1704214498222</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1704214498222</updated>
+    </task>
     <task id="LOCAL-00102" summary="NumberOfLaserBeamsInABank">
       <option name="closed" value="true" />
       <created>1704294326708</created>
@@ -564,47 +599,7 @@
       <option name="project" value="LOCAL" />
       <updated>1713098014605</updated>
     </task>
-    <task id="LOCAL-00119" summary="RobotReturnToOrigin">
-      <option name="closed" value="true" />
-      <created>1713098744340</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1713098744340</updated>
-    </task>
-    <task id="LOCAL-00120" summary="CalculateDelayedArrivalTime">
-      <option name="closed" value="true" />
-      <created>1713786938904</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1713786938905</updated>
-    </task>
-    <task id="LOCAL-00121" summary="NumberOfSeniorCitizens">
-      <option name="closed" value="true" />
-      <created>1713791794059</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1713791794060</updated>
-    </task>
-    <task id="LOCAL-00122" summary="CountTheDigitsThatDivideANumber">
-      <option name="closed" value="true" />
-      <created>1713792993113</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1713792993113</updated>
-    </task>
-    <task id="LOCAL-00123" summary="FindTargetIndicesAfterSortingArray">
-      <option name="closed" value="true" />
-      <created>1714512351369</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1714512351369</updated>
-    </task>
-    <option name="localTasksCounter" value="124" />
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -622,6 +617,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="TeemoAttacking" />
+    <MESSAGE value="EmployeesWhoseManagerLeftTheCompany.sql" />
+    <MESSAGE value="StringMatchingInAnArray" />
+    <MESSAGE value="EvaluateReversePolishNotation" />
+    <MESSAGE value="30.12.23" />
     <MESSAGE value="Happy New Year!" />
     <MESSAGE value="AssignCookies" />
     <MESSAGE value="2.1.24" />
@@ -642,12 +642,7 @@
     <MESSAGE value="SignOfTheProductOfAnArray" />
     <MESSAGE value="10.4.24" />
     <MESSAGE value="RelativeRanks" />
-    <MESSAGE value="RobotReturnToOrigin" />
-    <MESSAGE value="CalculateDelayedArrivalTime" />
-    <MESSAGE value="NumberOfSeniorCitizens" />
-    <MESSAGE value="CountTheDigitsThatDivideANumber" />
-    <MESSAGE value="FindTargetIndicesAfterSortingArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="FindTargetIndicesAfterSortingArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="RelativeRanks" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
