@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="FindTargetIndicesAfterSortingArray">
-      <change afterPath="$PROJECT_DIR$/src/easy/ANumberAfterADoubleReversal.java" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="DetectCapital">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -238,6 +238,7 @@
       <workItem from="1713787027654" duration="679000" />
       <workItem from="1713787722456" duration="5000" />
       <workItem from="1713787784856" duration="1897000" />
+      <workItem from="1715610494574" duration="102000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -428,14 +429,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00102" summary="NumberOfLaserBeamsInABank">
-      <option name="closed" value="true" />
-      <created>1704294326708</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1704294326709</updated>
-    </task>
     <task id="LOCAL-00103" summary="5.1.24">
       <option name="closed" value="true" />
       <created>1704474861140</created>
@@ -604,7 +597,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714512351369</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="DetectCapital">
+      <option name="closed" value="true" />
+      <created>1715249438266</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1715249438267</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -622,7 +623,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Happy New Year!" />
     <MESSAGE value="AssignCookies" />
     <MESSAGE value="2.1.24" />
     <MESSAGE value="NumberOfLaserBeamsInABank" />
@@ -647,7 +647,8 @@
     <MESSAGE value="NumberOfSeniorCitizens" />
     <MESSAGE value="CountTheDigitsThatDivideANumber" />
     <MESSAGE value="FindTargetIndicesAfterSortingArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="FindTargetIndicesAfterSortingArray" />
+    <MESSAGE value="DetectCapital" />
+    <option name="LAST_COMMIT_MESSAGE" value="DetectCapital" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
