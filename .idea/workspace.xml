@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="DetectCapital">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="FindTheSumOfEncryptedIntegers">
+      <change afterPath="$PROJECT_DIR$/src/easy/CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +73,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -239,6 +239,10 @@
       <workItem from="1713787722456" duration="5000" />
       <workItem from="1713787784856" duration="1897000" />
       <workItem from="1715610494574" duration="102000" />
+      <workItem from="1715617270178" duration="83000" />
+      <workItem from="1716813032130" duration="35000" />
+      <workItem from="1716813080532" duration="662000" />
+      <workItem from="1719530285091" duration="813000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -429,14 +433,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00103" summary="5.1.24">
-      <option name="closed" value="true" />
-      <created>1704474861140</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1704474861141</updated>
-    </task>
     <task id="LOCAL-00104" summary="PercentageOfLetterInString">
       <option name="closed" value="true" />
       <created>1704878413398</created>
@@ -605,7 +601,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715249438267</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="FindTheSumOfEncryptedIntegers">
+      <option name="closed" value="true" />
+      <created>1715617336900</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1715617336900</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,7 +627,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="AssignCookies" />
     <MESSAGE value="2.1.24" />
     <MESSAGE value="NumberOfLaserBeamsInABank" />
     <MESSAGE value="5.1.24" />
@@ -648,7 +651,8 @@
     <MESSAGE value="CountTheDigitsThatDivideANumber" />
     <MESSAGE value="FindTargetIndicesAfterSortingArray" />
     <MESSAGE value="DetectCapital" />
-    <option name="LAST_COMMIT_MESSAGE" value="DetectCapital" />
+    <MESSAGE value="FindTheSumOfEncryptedIntegers" />
+    <option name="LAST_COMMIT_MESSAGE" value="FindTheSumOfEncryptedIntegers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
