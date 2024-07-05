@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="FindTheSumOfEncryptedIntegers">
-      <change afterPath="$PROJECT_DIR$/src/easy/CheckIfAWordOccursAsAPrefixOfAnyWordInASentence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="semester 4 done :)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,31 +54,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BuyTwoChocolates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FormatClassName.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaximumAverageSubarrayI.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BuyTwoChocolates.executor": "Run",
+    "Application.FormatClassName.executor": "Run",
+    "Application.MaximumAverageSubarrayI.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;oracle&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="medium" />
@@ -242,7 +239,7 @@
       <workItem from="1715617270178" duration="83000" />
       <workItem from="1716813032130" duration="35000" />
       <workItem from="1716813080532" duration="662000" />
-      <workItem from="1719530285091" duration="813000" />
+      <workItem from="1719530285091" duration="990000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -433,14 +430,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00104" summary="PercentageOfLetterInString">
-      <option name="closed" value="true" />
-      <created>1704878413398</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1704878413399</updated>
-    </task>
     <task id="LOCAL-00105" summary="ReplaceEmployeeIdWithTheUniqueIdentifier.sql">
       <option name="closed" value="true" />
       <created>1705924321449</created>
@@ -609,7 +598,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715617336900</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="semester 4 done :)">
+      <option name="closed" value="true" />
+      <created>1719531155283</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1719531155283</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -627,7 +624,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2.1.24" />
     <MESSAGE value="NumberOfLaserBeamsInABank" />
     <MESSAGE value="5.1.24" />
     <MESSAGE value="PercentageOfLetterInString" />
@@ -652,7 +648,8 @@
     <MESSAGE value="FindTargetIndicesAfterSortingArray" />
     <MESSAGE value="DetectCapital" />
     <MESSAGE value="FindTheSumOfEncryptedIntegers" />
-    <option name="LAST_COMMIT_MESSAGE" value="FindTheSumOfEncryptedIntegers" />
+    <MESSAGE value="semester 4 done :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="semester 4 done :)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
