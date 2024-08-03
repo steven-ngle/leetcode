@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="LongestUncommonSubsequenceI" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="BinarySearch">
+      <change afterPath="$PROJECT_DIR$/src/easy/CircularSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,31 +57,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BuyTwoChocolates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FormatClassName.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaximumAverageSubarrayI.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BuyTwoChocolates.executor": "Run",
+    "Application.CircularSentence.executor": "Run",
+    "Application.FormatClassName.executor": "Run",
+    "Application.MaximumAverageSubarrayI.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;oracle&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "oracle"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="medium" />
@@ -87,13 +91,13 @@
       <recent name="medium" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FormatClassName">
-    <configuration name="BuyTwoChocolates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.BuyTwoChocolates" />
+  <component name="RunManager" selected="Application.CircularSentence">
+    <configuration name="CircularSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.CircularSentence" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.SearchInABinarySearchTree.*" />
+          <option name="PATTERN" value="easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CircularSentence" />
         <item itemvalue="Application.FormatClassName" />
         <item itemvalue="Application.ProductOfArrayExceptSelf" />
         <item itemvalue="Application.MaximumAverageSubarrayI" />
         <item itemvalue="Application.IsSubsequence" />
-        <item itemvalue="Application.BuyTwoChocolates" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +244,9 @@
       <workItem from="1716813032130" duration="35000" />
       <workItem from="1716813080532" duration="662000" />
       <workItem from="1719530285091" duration="990000" />
-      <workItem from="1720212268740" duration="725000" />
+      <workItem from="1720212268740" duration="818000" />
+      <workItem from="1720214779080" duration="22000" />
+      <workItem from="1722697162797" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -431,14 +437,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00106" summary="ProductSalesAnalysisI.sql">
-      <option name="closed" value="true" />
-      <created>1705928772577</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1705928772578</updated>
-    </task>
     <task id="LOCAL-00107" summary="CustomerWhoVisitedButDidNotMakeAnyTransactions.sql">
       <option name="closed" value="true" />
       <created>1706041510563</created>
@@ -607,7 +605,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720212325388</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="BinarySearch">
+      <option name="closed" value="true" />
+      <created>1720214750709</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1720214750709</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,7 +631,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="5.1.24" />
     <MESSAGE value="PercentageOfLetterInString" />
     <MESSAGE value="ReplaceEmployeeIdWithTheUniqueIdentifier.sql" />
     <MESSAGE value="ProductSalesAnalysisI.sql" />
@@ -650,7 +655,8 @@
     <MESSAGE value="FindTheSumOfEncryptedIntegers" />
     <MESSAGE value="semester 4 done :)" />
     <MESSAGE value="LongestUncommonSubsequenceI" />
-    <option name="LAST_COMMIT_MESSAGE" value="LongestUncommonSubsequenceI" />
+    <MESSAGE value="BinarySearch" />
+    <option name="LAST_COMMIT_MESSAGE" value="BinarySearch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
