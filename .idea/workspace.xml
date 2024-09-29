@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="MaximumSumWithExactlyKElements">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="LongestUncommonSubsequenceI" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +70,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -239,10 +236,11 @@
       <workItem from="1713787722456" duration="5000" />
       <workItem from="1713787784856" duration="1897000" />
       <workItem from="1715610494574" duration="102000" />
-      <workItem from="1722697654346" duration="55000" />
-      <workItem from="1722697718466" duration="644000" />
-      <workItem from="1723511765442" duration="87000" />
-      <workItem from="1724866659015" duration="608000" />
+      <workItem from="1715617270178" duration="83000" />
+      <workItem from="1716813032130" duration="35000" />
+      <workItem from="1716813080532" duration="662000" />
+      <workItem from="1719530285091" duration="990000" />
+      <workItem from="1720212268740" duration="725000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -433,30 +431,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00103" summary="5.1.24">
-      <option name="closed" value="true" />
-      <created>1704474861140</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1704474861141</updated>
-    </task>
-    <task id="LOCAL-00104" summary="PercentageOfLetterInString">
-      <option name="closed" value="true" />
-      <created>1704878413398</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1704878413399</updated>
-    </task>
-    <task id="LOCAL-00105" summary="ReplaceEmployeeIdWithTheUniqueIdentifier.sql">
-      <option name="closed" value="true" />
-      <created>1705924321449</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1705924321449</updated>
-    </task>
     <task id="LOCAL-00106" summary="ProductSalesAnalysisI.sql">
       <option name="closed" value="true" />
       <created>1705928772577</created>
@@ -609,7 +583,31 @@
       <option name="project" value="LOCAL" />
       <updated>1715249438267</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="FindTheSumOfEncryptedIntegers">
+      <option name="closed" value="true" />
+      <created>1715617336900</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1715617336900</updated>
+    </task>
+    <task id="LOCAL-00126" summary="semester 4 done :)">
+      <option name="closed" value="true" />
+      <created>1719531155283</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1719531155283</updated>
+    </task>
+    <task id="LOCAL-00127" summary="LongestUncommonSubsequenceI">
+      <option name="closed" value="true" />
+      <created>1720212325388</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1720212325388</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -627,9 +625,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="AssignCookies" />
-    <MESSAGE value="2.1.24" />
-    <MESSAGE value="NumberOfLaserBeamsInABank" />
     <MESSAGE value="5.1.24" />
     <MESSAGE value="PercentageOfLetterInString" />
     <MESSAGE value="ReplaceEmployeeIdWithTheUniqueIdentifier.sql" />
@@ -652,7 +647,10 @@
     <MESSAGE value="CountTheDigitsThatDivideANumber" />
     <MESSAGE value="FindTargetIndicesAfterSortingArray" />
     <MESSAGE value="DetectCapital" />
-    <option name="LAST_COMMIT_MESSAGE" value="DetectCapital" />
+    <MESSAGE value="FindTheSumOfEncryptedIntegers" />
+    <MESSAGE value="semester 4 done :)" />
+    <MESSAGE value="LongestUncommonSubsequenceI" />
+    <option name="LAST_COMMIT_MESSAGE" value="LongestUncommonSubsequenceI" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
