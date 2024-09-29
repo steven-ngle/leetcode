@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="LongestUncommonSubsequenceI" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="CheckIfBinaryStringHasAtMostOneSegmentOfOnes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,8 +35,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/steven-ngle/leetcodeSolutions.git&quot;,
-    &quot;accountId&quot;: &quot;ae640a7d-2962-42f8-a497-68866002c1c5&quot;
+    &quot;url&quot;: &quot;https://github.com/steven-ngle/leetcode.git&quot;,
+    &quot;accountId&quot;: &quot;bef4cb11-d5ab-445a-aa94-cac62d02969b&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
@@ -70,7 +72,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -160,8 +162,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
       </set>
     </attachedChunks>
   </component>
@@ -241,6 +243,9 @@
       <workItem from="1716813080532" duration="662000" />
       <workItem from="1719530285091" duration="990000" />
       <workItem from="1720212268740" duration="725000" />
+      <workItem from="1727646674685" duration="150000" />
+      <workItem from="1727646982091" duration="76000" />
+      <workItem from="1727647064565" duration="652000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -625,7 +630,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="5.1.24" />
     <MESSAGE value="PercentageOfLetterInString" />
     <MESSAGE value="ReplaceEmployeeIdWithTheUniqueIdentifier.sql" />
     <MESSAGE value="ProductSalesAnalysisI.sql" />
@@ -650,7 +654,8 @@
     <MESSAGE value="FindTheSumOfEncryptedIntegers" />
     <MESSAGE value="semester 4 done :)" />
     <MESSAGE value="LongestUncommonSubsequenceI" />
-    <option name="LAST_COMMIT_MESSAGE" value="LongestUncommonSubsequenceI" />
+    <MESSAGE value="CheckIfBinaryStringHasAtMostOneSegmentOfOnes" />
+    <option name="LAST_COMMIT_MESSAGE" value="CheckIfBinaryStringHasAtMostOneSegmentOfOnes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
