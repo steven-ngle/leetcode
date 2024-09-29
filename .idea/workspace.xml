@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="CheckIfBinaryStringHasAtMostOneSegmentOfOnes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="DeleteCharactersToMakeFancyString" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -245,7 +243,7 @@
       <workItem from="1720212268740" duration="725000" />
       <workItem from="1727646674685" duration="150000" />
       <workItem from="1727646982091" duration="76000" />
-      <workItem from="1727647064565" duration="652000" />
+      <workItem from="1727647064565" duration="990000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -436,14 +434,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00106" summary="ProductSalesAnalysisI.sql">
-      <option name="closed" value="true" />
-      <created>1705928772577</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1705928772578</updated>
-    </task>
     <task id="LOCAL-00107" summary="CustomerWhoVisitedButDidNotMakeAnyTransactions.sql">
       <option name="closed" value="true" />
       <created>1706041510563</created>
@@ -612,7 +602,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720212325388</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="DeleteCharactersToMakeFancyString">
+      <option name="closed" value="true" />
+      <created>1727652907002</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1727652907003</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -630,7 +628,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="PercentageOfLetterInString" />
     <MESSAGE value="ReplaceEmployeeIdWithTheUniqueIdentifier.sql" />
     <MESSAGE value="ProductSalesAnalysisI.sql" />
     <MESSAGE value="CustomerWhoVisitedButDidNotMakeAnyTransactions.sql" />
@@ -655,7 +652,8 @@
     <MESSAGE value="semester 4 done :)" />
     <MESSAGE value="LongestUncommonSubsequenceI" />
     <MESSAGE value="CheckIfBinaryStringHasAtMostOneSegmentOfOnes" />
-    <option name="LAST_COMMIT_MESSAGE" value="CheckIfBinaryStringHasAtMostOneSegmentOfOnes" />
+    <MESSAGE value="DeleteCharactersToMakeFancyString" />
+    <option name="LAST_COMMIT_MESSAGE" value="DeleteCharactersToMakeFancyString" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
