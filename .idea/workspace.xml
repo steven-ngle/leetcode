@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="FindGreatestCommonDivisorOfArray" />
+    <list default="true" id="1eb2ff2d-7fcd-4820-9db6-8b9a645229a3" name="Changes" comment="TruncateSentence" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -243,7 +243,7 @@
       <workItem from="1720212268740" duration="725000" />
       <workItem from="1727646674685" duration="150000" />
       <workItem from="1727646982091" duration="76000" />
-      <workItem from="1727647064565" duration="2356000" />
+      <workItem from="1727647064565" duration="3008000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1680199191425</created>
@@ -434,14 +434,6 @@
       <option name="project" value="LOCAL" />
       <updated>1693683852238</updated>
     </task>
-    <task id="LOCAL-00109" summary="BiggestSingleNumber.sql">
-      <option name="closed" value="true" />
-      <created>1706897106051</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1706897106052</updated>
-    </task>
     <task id="LOCAL-00110" summary="RearrangeCharactersToMakeTargetString">
       <option name="closed" value="true" />
       <created>1706900223787</created>
@@ -610,7 +602,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727653995554</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="TruncateSentence">
+      <option name="closed" value="true" />
+      <created>1727655077964</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1727655077965</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -628,7 +628,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CustomerWhoVisitedButDidNotMakeAnyTransactions.sql" />
     <MESSAGE value="ContainsDuplicateII" />
     <MESSAGE value="BiggestSingleNumber.sql" />
     <MESSAGE value="RearrangeCharactersToMakeTargetString" />
@@ -653,7 +652,8 @@
     <MESSAGE value="DeleteCharactersToMakeFancyString" />
     <MESSAGE value="ThreeDivisors" />
     <MESSAGE value="FindGreatestCommonDivisorOfArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="FindGreatestCommonDivisorOfArray" />
+    <MESSAGE value="TruncateSentence" />
+    <option name="LAST_COMMIT_MESSAGE" value="TruncateSentence" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
